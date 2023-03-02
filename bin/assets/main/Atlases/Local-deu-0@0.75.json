@@ -1,0 +1,20 @@
+{"frames": {
+
+"big_win_de-DEU":
+{
+	"frame": {"x":1,"y":1,"w":674,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":674,"h":172},
+	"sourceSize": {"w":674,"h":172}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Local-deu-0@0.75.png",
+	"format": "RGBA8888",
+	"size": {"w":676,"h":174},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:c61e5f1d4783651372923acdded8fc23:a51353f9d2fe0ba88abe3ebc72003d28:5255f1fda0b54d57754014c9ce6bda57$"
+}
+}

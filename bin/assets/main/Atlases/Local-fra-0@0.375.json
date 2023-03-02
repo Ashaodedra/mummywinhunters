@@ -1,0 +1,20 @@
+{"frames": {
+
+"big_win_fr-FRA":
+{
+	"frame": {"x":1,"y":1,"w":267,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":267,"h":93},
+	"sourceSize": {"w":267,"h":93}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Local-fra-0@0.375.png",
+	"format": "RGBA8888",
+	"size": {"w":269,"h":95},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:3bb8208dbf34db8a61e0f29c2b6ac65b:57892f54180f6954553a19d596503b97:a9eb38ecd4eb25fc3b388e70152d8d94$"
+}
+}

@@ -1,0 +1,223 @@
+
+symb_2.png
+size: 2028,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Limon
+  rotate: true
+  xy: 2, 20
+  size: 110, 143
+  orig: 275, 275
+  offset: 83, 66
+  index: -1
+images/Limon/Limon_00000
+  rotate: true
+  xy: 1288, 2
+  size: 130, 167
+  orig: 275, 275
+  offset: 72, 57
+  index: -1
+images/Limon/Limon_00001
+  rotate: false
+  xy: 783, 96
+  size: 130, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00002
+  rotate: true
+  xy: 1591, 3
+  size: 130, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00003
+  rotate: true
+  xy: 273, 133
+  size: 131, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00004
+  rotate: true
+  xy: 443, 133
+  size: 131, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00005
+  rotate: true
+  xy: 1795, 134
+  size: 132, 168
+  orig: 275, 275
+  offset: 71, 56
+  index: -1
+images/Limon/Limon_00006
+  rotate: true
+  xy: 613, 133
+  size: 131, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00007
+  rotate: false
+  xy: 1758, 268
+  size: 132, 169
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00008
+  rotate: false
+  xy: 1892, 268
+  size: 132, 169
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00009
+  rotate: false
+  xy: 948, 267
+  size: 133, 170
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00010
+  rotate: false
+  xy: 1083, 267
+  size: 133, 170
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00011
+  rotate: false
+  xy: 273, 266
+  size: 133, 171
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00012
+  rotate: false
+  xy: 1218, 267
+  size: 133, 170
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00013
+  rotate: false
+  xy: 408, 266
+  size: 133, 171
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00014
+  rotate: false
+  xy: 543, 266
+  size: 133, 171
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00015
+  rotate: false
+  xy: 2, 265
+  size: 134, 172
+  orig: 275, 275
+  offset: 70, 54
+  index: -1
+images/Limon/Limon_00016
+  rotate: false
+  xy: 678, 266
+  size: 133, 171
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00017
+  rotate: false
+  xy: 138, 265
+  size: 133, 172
+  orig: 275, 275
+  offset: 71, 54
+  index: -1
+images/Limon/Limon_00018
+  rotate: false
+  xy: 1353, 267
+  size: 133, 170
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00019
+  rotate: false
+  xy: 813, 266
+  size: 133, 171
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00020
+  rotate: false
+  xy: 1488, 267
+  size: 133, 170
+  orig: 275, 275
+  offset: 71, 55
+  index: -1
+images/Limon/Limon_00021
+  rotate: false
+  xy: 1623, 268
+  size: 133, 169
+  orig: 275, 275
+  offset: 71, 56
+  index: -1
+images/Limon/Limon_00022
+  rotate: true
+  xy: 1623, 135
+  size: 131, 170
+  orig: 275, 275
+  offset: 72, 55
+  index: -1
+images/Limon/Limon_00023
+  rotate: true
+  xy: 948, 133
+  size: 132, 168
+  orig: 275, 275
+  offset: 71, 56
+  index: -1
+images/Limon/Limon_00024
+  rotate: true
+  xy: 1118, 134
+  size: 131, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00025
+  rotate: true
+  xy: 1288, 134
+  size: 131, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00026
+  rotate: true
+  xy: 2, 132
+  size: 131, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00027
+  rotate: false
+  xy: 1458, 97
+  size: 131, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00028
+  rotate: true
+  xy: 1118, 2
+  size: 130, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1
+images/Limon/Limon_00029
+  rotate: true
+  xy: 1761, 2
+  size: 130, 168
+  orig: 275, 275
+  offset: 72, 56
+  index: -1

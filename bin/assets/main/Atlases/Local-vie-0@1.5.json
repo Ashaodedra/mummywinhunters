@@ -1,0 +1,20 @@
+{"frames": {
+
+"big_win_vi-VIE":
+{
+	"frame": {"x":1,"y":1,"w":951,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":951,"h":376},
+	"sourceSize": {"w":951,"h":376}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Local-vie-0@1.5.png",
+	"format": "RGBA8888",
+	"size": {"w":953,"h":378},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c2f416638054bda05792e1a40922260d:75e53c345655732096dbea5e0a23f166:d5076fa54a5b6bec0b1c29a408a345bb$"
+}
+}

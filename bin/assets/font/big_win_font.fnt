@@ -1,0 +1,22 @@
+<font>
+  <info face="big_win_font" size="200" bold="0" italic="0" charset="" unicode="" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0" outline="0"/>
+  <common lineHeight="240" base="132" scaleW="1503" scaleH="205" pages="1" packed="0"/>
+  <pages>
+    <page id="0" file="big_win_font.png"/>
+  </pages>
+  <chars count="12">
+    <char id="49" x="0" y="0" width="105" height="201" xoffset="1" yoffset="1" xadvance="107" page="0" chnl="15"/>
+    <char id="50" x="105" y="0" width="150" height="205" xoffset="-21" yoffset="2" xadvance="107" page="0" chnl="15"/>
+    <char id="51" x="255" y="0" width="146" height="202" xoffset="-20" yoffset="2" xadvance="107" page="0" chnl="15"/>
+    <char id="52" x="401" y="0" width="144" height="203" xoffset="-19" yoffset="1" xadvance="107" page="0" chnl="15"/>
+    <char id="53" x="545" y="0" width="142" height="202" xoffset="-18" yoffset="2" xadvance="107" page="0" chnl="15"/>
+    <char id="54" x="687" y="0" width="145" height="202" xoffset="-20" yoffset="1" xadvance="107" page="0" chnl="15"/>
+    <char id="55" x="832" y="0" width="144" height="203" xoffset="-20" yoffset="0" xadvance="107" page="0" chnl="15"/>
+    <char id="56" x="976" y="0" width="147" height="201" xoffset="-21" yoffset="4" xadvance="107" page="0" chnl="15"/>
+    <char id="57" x="1123" y="0" width="146" height="203" xoffset="-21" yoffset="1" xadvance="107" page="0" chnl="15"/>
+    <char id="48" x="1269" y="0" width="146" height="202" xoffset="-21" yoffset="1" xadvance="107" page="0" chnl="15"/>
+    <char id="46" x="1415" y="0" width="88" height="85" xoffset="-15" yoffset="113" xadvance="60" page="0" chnl="15"/>
+    <char id="32" x="0" y="0" width="0" height="0" xoffset="-15" yoffset="113" xadvance="80" page="0" chnl="15"/>
+    <char id="44" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="0" page="0" chnl="15"/>
+  </chars>
+</font>

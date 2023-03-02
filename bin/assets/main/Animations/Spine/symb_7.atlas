@@ -1,0 +1,223 @@
+
+symb_7.png
+size: 448,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Bell
+  rotate: false
+  xy: 301, 1208
+  size: 123, 137
+  orig: 275, 275
+  offset: 76, 69
+  index: -1
+images/Bell/Bell_00000
+  rotate: false
+  xy: 300, 17
+  size: 145, 162
+  orig: 275, 275
+  offset: 67, 60
+  index: -1
+images/Bell/Bell_00001
+  rotate: false
+  xy: 301, 1839
+  size: 145, 162
+  orig: 275, 275
+  offset: 67, 60
+  index: -1
+images/Bell/Bell_00002
+  rotate: false
+  xy: 301, 1675
+  size: 145, 162
+  orig: 275, 275
+  offset: 67, 60
+  index: -1
+images/Bell/Bell_00003
+  rotate: false
+  xy: 152, 181
+  size: 146, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00004
+  rotate: false
+  xy: 152, 1171
+  size: 147, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00005
+  rotate: false
+  xy: 153, 1838
+  size: 146, 163
+  orig: 275, 275
+  offset: 67, 59
+  index: -1
+images/Bell/Bell_00006
+  rotate: false
+  xy: 152, 1006
+  size: 147, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00007
+  rotate: false
+  xy: 151, 3
+  size: 147, 164
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00008
+  rotate: false
+  xy: 152, 841
+  size: 147, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00009
+  rotate: false
+  xy: 2, 2
+  size: 147, 165
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00010
+  rotate: false
+  xy: 2, 501
+  size: 148, 164
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00011
+  rotate: false
+  xy: 2, 1335
+  size: 148, 165
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00012
+  rotate: false
+  xy: 2, 1168
+  size: 148, 165
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00013
+  rotate: false
+  xy: 2, 1001
+  size: 148, 165
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00014
+  rotate: false
+  xy: 2, 1836
+  size: 149, 165
+  orig: 275, 275
+  offset: 65, 58
+  index: -1
+images/Bell/Bell_00015
+  rotate: false
+  xy: 2, 1669
+  size: 149, 165
+  orig: 275, 275
+  offset: 65, 58
+  index: -1
+images/Bell/Bell_00016
+  rotate: false
+  xy: 2, 1502
+  size: 149, 165
+  orig: 275, 275
+  offset: 65, 58
+  index: -1
+images/Bell/Bell_00017
+  rotate: false
+  xy: 2, 834
+  size: 148, 165
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00018
+  rotate: false
+  xy: 2, 335
+  size: 148, 164
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00019
+  rotate: false
+  xy: 2, 667
+  size: 148, 165
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00020
+  rotate: false
+  xy: 2, 169
+  size: 148, 164
+  orig: 275, 275
+  offset: 66, 58
+  index: -1
+images/Bell/Bell_00021
+  rotate: false
+  xy: 152, 1336
+  size: 147, 164
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00022
+  rotate: false
+  xy: 152, 676
+  size: 147, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00023
+  rotate: false
+  xy: 152, 511
+  size: 147, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00024
+  rotate: false
+  xy: 152, 346
+  size: 147, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00025
+  rotate: false
+  xy: 300, 181
+  size: 145, 163
+  orig: 275, 275
+  offset: 67, 59
+  index: -1
+images/Bell/Bell_00026
+  rotate: false
+  xy: 153, 1673
+  size: 146, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00027
+  rotate: false
+  xy: 153, 1508
+  size: 146, 163
+  orig: 275, 275
+  offset: 66, 59
+  index: -1
+images/Bell/Bell_00028
+  rotate: false
+  xy: 301, 1511
+  size: 145, 162
+  orig: 275, 275
+  offset: 67, 60
+  index: -1
+images/Bell/Bell_00029
+  rotate: false
+  xy: 301, 1347
+  size: 145, 162
+  orig: 275, 275
+  offset: 67, 60
+  index: -1

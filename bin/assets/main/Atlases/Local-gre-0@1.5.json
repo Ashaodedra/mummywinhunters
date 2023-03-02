@@ -1,0 +1,20 @@
+{"frames": {
+
+"big_win_el-GRE":
+{
+	"frame": {"x":1,"y":1,"w":1594,"h":344},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1594,"h":344},
+	"sourceSize": {"w":1594,"h":344}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Local-gre-0@1.5.png",
+	"format": "RGBA8888",
+	"size": {"w":1596,"h":346},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:622f951110ca59bab7321d818770308e:61893e29df4ab267865ae8dc980ed0c2:817d284a5e00a92fdb689597232f8f23$"
+}
+}

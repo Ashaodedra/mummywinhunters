@@ -1,0 +1,20 @@
+{"frames": {
+
+"big_win_hi-HIN":
+{
+	"frame": {"x":1,"y":1,"w":380,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":183},
+	"sourceSize": {"w":380,"h":183}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Local-hin-0@0.75.png",
+	"format": "RGBA8888",
+	"size": {"w":382,"h":185},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:6503cd005c721a78c5208f96288bad34:8b045a02537b45157bc302e4ee42dea5:2ff7a93fe1360a7d82e9fd3decaa9d54$"
+}
+}

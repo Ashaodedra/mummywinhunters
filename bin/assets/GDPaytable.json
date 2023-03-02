@@ -1,0 +1,985 @@
+{
+  "debug": 1,
+  "visible": 0,
+  "x": 0,
+  "y": 0,
+  "scale": 1.0,
+  "sdx": 0.5,
+  "sdy": 0.5,
+  "deepPosition": false,
+  "need_open_page": "",
+  "entities": [
+    {
+      "x": 0,
+      "y": 0,
+      "type": "sprite",
+      "texture": "main_bg.jpg",
+      "name": "s_help_bg",
+      "debug": 0,
+      "alpha": 1,
+      "active": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 720,
+      "color": "0x11101D",
+      "alpha": 1,
+      "type": "rect",
+      "name": "s_help_bg",
+      "debug": 0
+    },
+    {
+      "x": 0,
+      "y": -20,
+      "m_x": 0,
+      "m_y": 0,
+      "v_x": 0,
+      "v_y": 0,
+      "1width": 1280,
+      "1height": 720,
+      "type": "sprite",
+      "texture": "paytable_1.png",
+      "m_texture": "main_screen",
+      "v_texture": "mobile_v",
+      "name": "s_preview",
+      "debug": 0,
+      "active": 0
+    },
+    {
+      "x": 0,
+      "y": -21,
+      "type": "sprite",
+      "texture": "paytable_bg",
+      "name": "frame",
+      "debug": 0,
+      "alpha": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "scale": 1.0,
+      "m_x": 0,
+      "m_y": 0,
+      "m_scale": 1.0,
+      "interactiveChildren": false,
+      "centered": false,
+      "type": "container",
+      "name": "c_page_layer",
+      "debug": 0,
+      "entities": []
+    },
+    {
+      "x": 640,
+      "y": 575,
+      "sdx": 0,
+      "sdy": 0.5,
+      "interactiveChildren": true,
+      "centered": false,
+      "cacheAsBitmap": false,
+      "type": "container",
+      "name": "c_navigate",
+      "debug": 0,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 0,
+          "type": "button",
+          "name": "b_p_0",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 30,
+          "type": "button",
+          "name": "b_p_1",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 30,
+          "type": "button",
+          "name": "b_p_2",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 30,
+          "type": "button",
+          "name": "b_p_3",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 30,
+          "type": "button",
+          "name": "b_p_4",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 30,
+          "type": "button",
+          "name": "b_p_5",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 30,
+          "type": "button",
+          "name": "b_p_6",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 30,
+          "type": "button",
+          "name": "b_p_7",
+          "out": "b_p1",
+          "over": "b_p1_active",
+          "down": "b_p1_active",
+          "block": "b_p1_active",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 16,
+            "y": 26,
+            "width": 35,
+            "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        }
+      ],
+      "alignContainer": {
+        "x": 0.5,
+        "y": 0,
+        "!rect": {
+          "width": 10,
+          "height": 10
+        },
+        "edit": false
+      }
+    },
+    {
+      "x": 30,
+      "y": 307,
+      "type": "button",
+      "name": "b_prev",
+      "out": "b_pt_left_0",
+      "over": "b_pt_left_1",
+      "down": "b_pt_left_2",
+      "block": "b_pt_left_3",
+      "debug": 0,
+      "hintAreaRect": {
+        "x": 4,
+        "y": 4,
+        "width": 50,
+        "height": 89,
+        "type": 0,
+        "debug": 0
+      }
+    },
+    {
+      "x": 1190,
+      "y": 307,
+      "type": "button",
+      "name": "b_next",
+      "out": "b_pt_right_0",
+      "over": "b_pt_right_1",
+      "down": "b_pt_right_2",
+      "block": "b_pt_right_3",
+      "debug": 0,
+      "hintAreaRect": {
+        "x": 4,
+        "y": 4,
+        "width": 50,
+        "height": 89,
+        "type": 0,
+        "debug": 0
+      }
+    },
+    {
+      "x": 1187,
+      "y": 18,
+      "oneClick": true,
+      "type": "button",
+      "debug": 0,
+      "name": "b_close",
+      "out": "b_close_0",
+      "over": "b_close_1",
+      "down": "b_close_2",
+      "block": "b_close_3"
+    }
+  ],
+  "pages": [
+    {
+      "x": 0,
+      "y": 0,
+      "cacheAsBitmap": false,
+      "t_copy_1": {
+        "x": 0,
+        "y": 0,
+        "width": 157,
+        "height": 50,
+        "align": "right",
+        "alignV": "middle",
+        "fontSize": "28px",
+        "fontName": "Akrobat",
+        "fill": "0xfff",
+        "letterSpacing": 0,
+        "leading": 0,
+        "checkFontSize": true,
+        "oneLine": true,
+        "toUpperCase": false,
+        "locCheck": false,
+        "text": "",
+        "type": "textNumberFont",
+        "name": "t_",
+        "debug": 0
+      },
+      "texts_1": {
+        "A_5": {
+          "x": 524,
+          "y": 127,
+          "debug": 0
+        },
+        "A_4": {
+          "x": 524,
+          "y": 163,
+          "debug": 0
+        },
+        "A_3": {
+          "x": 524,
+          "y": 199,
+          "debug": 0
+        },
+        "@_5": {
+          "x": 1102,
+          "y": 127,
+          "debug": 0
+        },
+        "@_4": {
+          "x": 1102,
+          "y": 163,
+          "debug": 0
+        },
+        "@_3": {
+          "x": 1102,
+          "y": 199,
+          "debug": 0
+        },
+        "B_5": {
+          "x": 317,
+          "y": 483,
+          "debug": 0
+        },
+        "B_4": {
+          "x": 317,
+          "y": 519,
+          "debug": 0
+        },
+        "B_3": {
+          "x": 317,
+          "y": 555,
+          "debug": 0
+        },
+        "C_5": {
+          "x": 585,
+          "y": 483,
+          "debug": 0
+        },
+        "C_4": {
+          "x": 585,
+          "y": 519,
+          "debug": 0
+        },
+        "C_3": {
+          "x": 585,
+          "y": 555,
+          "debug": 0
+        },
+        "D_5": {
+          "x": 849,
+          "y": 483,
+          "debug": 0
+        },
+        "D_4": {
+          "x": 849,
+          "y": 519,
+          "debug": 0
+        },
+        "D_3": {
+          "x": 849,
+          "y": 555,
+          "debug": 0
+        },
+        "E_5": {
+          "x": 1120,
+          "y": 483,
+          "debug": 0
+        },
+        "E_4": {
+          "x": 1120,
+          "y": 519,
+          "debug": 0
+        },
+        "E_3": {
+          "x": 1120,
+          "y": 555,
+          "debug": 0
+        },
+        "active": 0
+      },
+      "entities": [
+        {
+          "x": 157,
+          "y": 110,
+          "type": "sprite",
+          "texture": "pt_1",
+          "name": "s_pt_1",
+          "debug": 0
+        },
+        {
+          "x": 960,
+          "y": 474,
+          "type": "sprite",
+          "texture": "pt_multiplier",
+          "name": "s_pt_multiplier6",
+          "debug": 0,
+          "active": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "pt_title_shadow",
+          "name": "s_pt_title_shadow",
+          "debug": 0
+        },
+        {
+          "x": 640,
+          "y": 29,
+          "width": 973,
+          "height": 50,
+          "align": "center",
+          "alignV": "middle",
+          "font": {
+            "size": 41,
+            "name": "paytable_font"
+          },
+          "checkFontSize": true,
+          "name": "paytable_p1_t05",
+          "locConst": "paytable_p1_t05",
+          "type": "textBitmap",
+          "oneLine": true,
+          "debug": 0
+        },
+        {
+          "x": 201,
+          "y": 92,
+          "width": 318,
+          "height": 50,
+          "align": "left",
+          "alignV": "middle",
+          "fontSize": "37px",
+          "fontName": "Akrobat",
+          "fill": "0xFFC000",
+          "letterSpacing": 0,
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": true,
+          "toUpperCase": false,
+          "locCheck": true,
+          "locConst": "paytable_p1_t01",
+          "type": "textFont",
+          "name": "paytable_p1_t01",
+          "debug": 0,
+          "active": 0
+        },
+        {
+          "x": 332,
+          "y": 226,
+          "width": 300,
+          "height": 100,
+          "align": "left",
+          "alignV": "top",
+          "letterSpacing": 0,
+          "locCheck": true,
+          "default": {
+            "fontFamily": "heroiccondensed",
+            "fontSize": "25px",
+            "fill": "0xffffff"
+          },
+          "w": {
+            "fill": "0xFFC000"
+          },
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "locConfig": {
+            "jpn": {
+              "fontSize": "18px"
+            }
+          },
+          "locConst": "paytable_p1_t02",
+          "type": "textMultiStyleFont",
+          "name": "paytable_p1_t02",
+          "debug": 0,
+          "active": 0
+        },
+        {
+          "x": 761,
+          "y": 92,
+          "width": 334,
+          "height": 50,
+          "align": "left",
+          "alignV": "middle",
+          "fontSize": "37px",
+          "fontName": "Akrobat",
+          "fill": "0xFFC000",
+          "letterSpacing": 0,
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": true,
+          "toUpperCase": false,
+          "locCheck": true,
+          "locConst": "paytable_p1_t03",
+          "type": "textFont",
+          "name": "paytable_p1_t03",
+          "debug": 0,
+          "active": 0
+        },
+        {
+          "x": 909,
+          "y": 226,
+          "width": 284,
+          "height": 100,
+          "align": "left",
+          "alignV": "top",
+          "letterSpacing": 0,
+          "locCheck": true,
+          "default": {
+            "fontFamily": "heroiccondensed",
+            "fontSize": "25px",
+            "fill": "0xffffff",
+            "leading": 100
+          },
+          "w": {
+            "fill": "0xFFC000"
+          },
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "locConfig": {
+            "jpn": {
+              "fontSize": "18px"
+            }
+          },
+          "locConst": "paytable_p1_t04",
+          "type": "textMultiStyleFont",
+          "name": "paytable_p1_t04",
+          "debug": 0,
+          "active": 0
+        }
+      ]
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "cacheAsBitmap": false,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "pt_title_shadow",
+          "name": "s_pt_title_shadow",
+          "debug": 0
+        },
+        {
+          "x": 760,
+          "y": 114,
+          "type": "sprite",
+          "texture": "pt_2",
+          "name": "s_pt_2",
+          "debug": 0
+        },
+        {
+          "x": 640,
+          "y": 29,
+          "width": 973,
+          "height": 50,
+          "align": "center",
+          "alignV": "middle",
+          "font": {
+            "size": 41,
+            "name": "paytable_font"
+          },
+          "checkFontSize": true,
+          "name": "paytable_p2_t01",
+          "locConst": "paytable_p2_t01",
+          "type": "textBitmap",
+          "oneLine": true,
+          "debug": 0
+        },
+        {
+          "x": 172,
+          "y": 71,
+          "type": "sprite",
+          "texture": "help_lines",
+          "name": "s_help_lines",
+          "debug": 0
+        },
+        {
+          "x": 640,
+          "y": 546,
+          "width": 1169,
+          "height": 118,
+          "align": "center",
+          "alignV": "middle",
+          "fontSize": "32px",
+          "fontName": "heroiccondensed",
+          "letterSpacing": 0,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "locConst": "paytable_p2_t02",
+          "type": "textFont",
+          "name": "paytable_p2_t02",
+          "debug": 0
+        }
+      ]
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "cacheAsBitmap": false,
+      "entities": [
+        {
+          "x": 177,
+          "y": 317,
+          "type": "sprite",
+          "texture": "pt_3",
+          "name": "s_pt_3",
+          "debug": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "pt_title_shadow",
+          "name": "s_pt_title_shadow",
+          "debug": 0
+        },
+        {
+          "x": 640,
+          "y": 29,
+          "width": 973,
+          "height": 50,
+          "align": "center",
+          "alignV": "middle",
+          "font": {
+            "size": 41,
+            "name": "paytable_font"
+          },
+          "checkFontSize": true,
+          "name": "paytable_p3_t01",
+          "locConst": "paytable_p3_t01",
+          "type": "textBitmap",
+          "oneLine": true,
+          "debug": 0
+        },
+        {
+          "x": 216,
+          "y": 75,
+          "interactiveChildren": true,
+          "centered": false,
+          "cacheAsBitmap": false,
+          "type": "container",
+          "name": "c_canvas",
+          "debug": 0,
+          "entities": [
+            {
+              "x": 0,
+              "y": 0,
+              "width": 846,
+              "height": 600,
+              "align": "left",
+              "alignV": "top",
+              "letterSpacing": 0,
+              "locCheck": true,
+              "default": {
+                "fontFamily": "heroiccondensed",
+                "fontSize": "32px",
+                "fill": "0xffffff"
+              },
+              "w": {
+                "fill": "0xFFC000"
+              },
+              "leading": 0,
+              "checkFontSize": true,
+              "oneLine": false,
+              "toUpperCase": false,
+              "locConst": "paytable_p3_t02+'\n'+paytable_p3_t03",
+              "type": "textMultiStyleFont",
+              "name": "paytable_p3_t02",
+              "debug": 0,
+              "format": true,
+              "pos_dy": 0,
+              "locConfig": {
+                "gre": {
+                  "fontSize": "26px"
+                },
+                "vie": {
+                  "fontSize": "26px"
+                }
+              }
+            },
+            {
+              "x": 424,
+              "y": 0,
+              "width": 1100,
+              "height": 50,
+              "align": "center",
+              "alignV": "top",
+              "font": {
+                "size": 39,
+                "name": "paytable_font"
+              },
+              "checkFontSize": true,
+              "name": "paytable_rtp_1",
+              "locConst": "paytable_rtp_1",
+              "type": "textBitmap",
+              "oneLine": true,
+              "debug": 0,
+              "format": true,
+              "pos_dy": 30
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "width": 856,
+              "height": 200,
+              "align": "left",
+              "alignV": "top",
+              "fontSize": "32px",
+              "fontName": "heroiccondensed",
+              "letterSpacing": 0,
+              "dropShadow": true,
+              "dropShadowAngle": 90,
+              "dropShadowBlur": 4,
+              "dropShadowDistance": 4,
+              "fill": "white",
+              "leading": 0,
+              "checkFontSize": true,
+              "oneLine": false,
+              "toUpperCase": false,
+              "text": "The theoretical return to player for this game is %s%s.",
+              "type": "textFont",
+              "name": "t_rtp",
+              "debug": 0,
+              "format": true,
+              "pos_dy": 15,
+              "locConfig": {
+                "gre": {
+                  "fontSize": "26px"
+                },
+                "vie": {
+                  "fontSize": "26px"
+                }
+              }
+            }
+          ],
+          "alignContainer": {
+            "x": 0,
+            "y": 0,
+            "rect": {
+              "width": 860,
+              "height": 541
+            },
+            "edit": false
+          }
+        }
+      ]
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "cacheAsBitmap": false,
+      "jackPot": true,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "pt_title_shadow",
+          "name": "s_pt_title_shadow",
+          "debug": 0
+        },
+        {
+          "x": 640,
+          "y": 29,
+          "width": 973,
+          "height": 50,
+          "align": "center",
+          "alignV": "middle",
+          "font": {
+            "size": 41,
+            "name": "paytable_font"
+          },
+          "checkFontSize": true,
+          "name": "jackpot_paytable_1",
+          "locConst": "jackpot_paytable_1",
+          "type": "textBitmap",
+          "oneLine": true,
+          "debug": 0
+        },
+        {
+          "x": 216,
+          "y": 79,
+          "width": 855,
+          "height": 527,
+          "align": "left",
+          "alignV": "top",
+          "fontSize": "32px",
+          "fontName": "heroiccondensed",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "locConst": "jackpot_paytable_2",
+          "type": "textFont",
+          "name": "jackpot_paytable_2",
+          "debug": 0
+        }
+      ]
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "cacheAsBitmap": false,
+      "jackPot": true,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "pt_title_shadow",
+          "name": "s_pt_title_shadow",
+          "debug": 0
+        },
+        {
+          "x": 640,
+          "y": 29,
+          "width": 973,
+          "height": 50,
+          "align": "center",
+          "alignV": "middle",
+          "font": {
+            "size": 41,
+            "name": "paytable_font"
+          },
+          "checkFontSize": true,
+          "name": "jackpot_paytable_1",
+          "locConst": "jackpot_paytable_1",
+          "type": "textBitmap",
+          "oneLine": true,
+          "debug": 0
+        },
+        {
+          "x": 216,
+          "y": 79,
+          "width": 846,
+          "height": 527,
+          "align": "left",
+          "alignV": "top",
+          "fontSize": "32px",
+          "fontName": "heroiccondensed",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "locConfig": {
+            "jpn": {
+              "fontSize": "24px"
+            }
+          },
+          "locConst": "jackpot_paytable_3",
+          "type": "textFont",
+          "name": "jackpot_paytable_3",
+          "debug": 0
+        }
+      ]
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "cacheAsBitmap": false,
+      "jackPot": true,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "pt_title_shadow",
+          "name": "s_pt_title_shadow",
+          "debug": 0
+        },
+        {
+          "x": 640,
+          "y": 29,
+          "width": 973,
+          "height": 50,
+          "align": "center",
+          "alignV": "middle",
+          "font": {
+            "size": 41,
+            "name": "paytable_font"
+          },
+          "checkFontSize": true,
+          "name": "jackpot_paytable_1",
+          "locConst": "jackpot_paytable_1",
+          "type": "textBitmap",
+          "oneLine": true,
+          "debug": 0
+        },
+        {
+          "x": 216,
+          "y": 79,
+          "width": 846,
+          "height": 527,
+          "align": "left",
+          "alignV": "top",
+          "fontSize": "32px",
+          "fontName": "heroiccondensed",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "locConst": "jackpot_paytable_4",
+          "type": "textFont",
+          "name": "jackpot_paytable_4",
+          "debug": 0,
+          "locConfig": {
+            "tha": {
+              "fontSize": "28px"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

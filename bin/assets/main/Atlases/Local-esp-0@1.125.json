@@ -1,0 +1,20 @@
+{"frames": {
+
+"big_win_is-ESP":
+{
+	"frame": {"x":1,"y":1,"w":832,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":832,"h":257},
+	"sourceSize": {"w":832,"h":257}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Local-esp-0@1.125.png",
+	"format": "RGBA8888",
+	"size": {"w":834,"h":259},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:af56aba05bda8fa7ad37790206292fbf:c67a9c2ad002b5639ab0fbdf6792b664:4eac3dd45384902be57dfc029034b176$"
+}
+}

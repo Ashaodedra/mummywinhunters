@@ -1,0 +1,279 @@
+
+symb_6.png
+size: 2036,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BG
+  rotate: true
+  xy: 163, 61
+  size: 149, 176
+  orig: 161, 178
+  offset: 5, 0
+  index: -1
+images/Layer 143
+  rotate: false
+  xy: 39, 153
+  size: 40, 6
+  orig: 40, 6
+  offset: 0, 0
+  index: -1
+images/Wild Text
+  rotate: false
+  xy: 358, 248
+  size: 113, 46
+  orig: 116, 49
+  offset: 2, 2
+  index: -1
+images/Wild_shine/Wild_00000
+  rotate: true
+  xy: 358, 52
+  size: 159, 189
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00001
+  rotate: true
+  xy: 549, 52
+  size: 159, 189
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00002
+  rotate: true
+  xy: 740, 52
+  size: 159, 189
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00003
+  rotate: true
+  xy: 931, 52
+  size: 159, 189
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00004
+  rotate: true
+  xy: 1457, 213
+  size: 159, 190
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00005
+  rotate: true
+  xy: 1649, 213
+  size: 159, 190
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00006
+  rotate: true
+  xy: 166, 212
+  size: 159, 190
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00007
+  rotate: false
+  xy: 1786, 375
+  size: 159, 191
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00008
+  rotate: true
+  xy: 492, 213
+  size: 159, 191
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00009
+  rotate: true
+  xy: 685, 213
+  size: 159, 191
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00010
+  rotate: false
+  xy: 1142, 374
+  size: 159, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00011
+  rotate: false
+  xy: 1303, 374
+  size: 159, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00012
+  rotate: false
+  xy: 818, 374
+  size: 160, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00013
+  rotate: false
+  xy: 492, 374
+  size: 161, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00014
+  rotate: false
+  xy: 166, 373
+  size: 161, 193
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00015
+  rotate: false
+  xy: 2, 372
+  size: 162, 194
+  orig: 225, 225
+  offset: 32, 19
+  index: -1
+images/Wild_shine/Wild_00016
+  rotate: false
+  xy: 329, 373
+  size: 161, 193
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00017
+  rotate: false
+  xy: 655, 374
+  size: 161, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00018
+  rotate: false
+  xy: 980, 374
+  size: 160, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00019
+  rotate: false
+  xy: 1464, 374
+  size: 159, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00020
+  rotate: false
+  xy: 1625, 374
+  size: 159, 192
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00021
+  rotate: true
+  xy: 878, 213
+  size: 159, 191
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00022
+  rotate: true
+  xy: 1071, 213
+  size: 159, 191
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00023
+  rotate: true
+  xy: 1264, 213
+  size: 159, 191
+  orig: 225, 225
+  offset: 32, 20
+  index: -1
+images/Wild_shine/Wild_00024
+  rotate: true
+  xy: 1841, 214
+  size: 159, 190
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00025
+  rotate: false
+  xy: 2, 180
+  size: 159, 190
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00026
+  rotate: true
+  xy: 1841, 53
+  size: 159, 190
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00027
+  rotate: true
+  xy: 1122, 52
+  size: 159, 189
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00028
+  rotate: true
+  xy: 1313, 52
+  size: 159, 189
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/Wild_shine/Wild_00029
+  rotate: true
+  xy: 1504, 52
+  size: 159, 189
+  orig: 225, 225
+  offset: 32, 21
+  index: -1
+images/closed
+  rotate: false
+  xy: 41, 161
+  size: 18, 10
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+images/face
+  rotate: false
+  xy: 1682, 4
+  size: 55, 58
+  orig: 58, 58
+  offset: 2, 0
+  index: -1
+images/heat
+  rotate: false
+  xy: 2, 79
+  size: 122, 101
+  orig: 148, 108
+  offset: 18, 3
+  index: -1
+images/neck
+  rotate: false
+  xy: 1695, 62
+  size: 90, 149
+  orig: 95, 151
+  offset: 1, 1
+  index: -1
+images/neck 2
+  rotate: false
+  xy: 358, 296
+  size: 79, 75
+  orig: 81, 76
+  offset: 1, 0
+  index: -1
+images/shine heat
+  rotate: 180
+  xy: 41, 4
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1

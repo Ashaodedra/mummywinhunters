@@ -1,0 +1,63 @@
+name                server      client
+вишня               G           0
+апельсин            F           1
+лимон               E           2
+виноград            D           3
+слива               C           4
+полуниця            B           5
+вайлд               A           6
+дзвіночок           @           7
+
+CCCGGGDDDEEE@FFFAAAGGGFFFEEEDDD@BBBCCCEEEFFFGGGEEEGGGFFFEEEDDD@BBBCCCEEEFFFGGGDDDEEE@FFF"
+FFFDDDCCEEEBBBGGFFFEEE@DDDCCCFFFBBBEEEGGGDDDFFFCCCEEEBBFFFFGGGCCCDDFFFGGGBBBCCC@EEEFFFGGGDDDAAABBB"
+GGGDDFFFGGGGCCCEEEBBGGGCCCDDGGGBBBCCC@EEEFFFGGGDDDAAABBBFFFGGGDDDCCEEEBBBGGFFFEEE@GGGDDDCCCFFFBB"
+FFFEEGGGDDDCCCAAEEEBBBGGFFFEEE@GGDDDCCCFFFEEEGGGDDDDFFFCCCEEEBBCCCFFDDDGGGBBCCC@EEEFFFGGGEEDDDFFAAA"
+FFFEEGGGDDDCCCEEEBBBGGGFFFEEE@DDDBBBCCCFFFFCCDDDDBBFFFCCCBBBCCCDDDDGGGBBBCCC@EEEFFFGGGCCCDDDAAABBB"
+length: 5
+
+
+0: {symbol: "@", extra: null, count: 3, factor: 5}
+1: {symbol: "@", extra: null, count: 4, factor: 20}
+2: {symbol: "@", extra: null, count: 5, factor: 400}
+3: {symbol: "A", extra: null, count: 3, factor: 50}
+4: {symbol: "A", extra: null, count: 4, factor: 500}
+5: {symbol: "A", extra: null, count: 5, factor: 1500}
+6: {symbol: "B", extra: null, count: 3, factor: 20}
+7: {symbol: "B", extra: null, count: 4, factor: 100}
+8: {symbol: "B", extra: null, count: 5, factor: 360}
+9: {symbol: "C", extra: null, count: 3, factor: 20}
+10: {symbol: "C", extra: null, count: 4, factor: 60}
+11: {symbol: "C", extra: null, count: 5, factor: 160}
+12: {symbol: "D", extra: null, count: 3, factor: 20}
+13: {symbol: "D", extra: null, count: 4, factor: 60}
+14: {symbol: "D", extra: null, count: 5, factor: 160}
+15: {symbol: "E", extra: null, count: 3, factor: 10}
+16: {symbol: "E", extra: null, count: 4, factor: 30}
+17: {symbol: "E", extra: null, count: 5, factor: 90}
+18: {symbol: "F", extra: null, count: 3, factor: 10}
+19: {symbol: "F", extra: null, count: 4, factor: 30}
+20: {symbol: "F", extra: null, count: 5, factor: 90}
+21: {symbol: "G", extra: null, count: 3, factor: 10}
+22: {symbol: "G", extra: null, count: 4, factor: 30}
+23: {symbol: "G", extra: null, count: 5, factor: 90}
+
+0: (5)  [0, 0, 0, 0, 0]
+1: (5)  [1, 1, 1, 1, 1]
+2: (5)  [2, 2, 2, 2, 2]
+3: (5)  [0, 1, 2, 1, 0]
+4: (5)  [2, 1, 0, 1, 2]
+5: (5)  [1, 2, 2, 2, 1]
+6: (5)  [2, 1, 1, 1, 2]
+7: (5)  [2, 2, 1, 0, 0]
+8: (5)  [0, 0, 1, 2, 2]
+9: (5)  [2, 1, 1, 1, 0]
+10: (5) [0, 1, 1, 1, 2]
+11: (5) [1, 2, 1, 0, 1]
+12: (5) [1, 0, 1, 2, 1]
+13: (5) [0, 1, 0, 1, 0]
+14: (5) [2, 1, 2, 1, 2]
+15: (5) [1, 1, 0, 1, 1]
+16: (5) [1, 1, 2, 1, 1]
+17: (5) [0, 2, 0, 2, 0]
+18: (5) [2, 0, 2, 0, 2]
+19: (5) [2, 0, 1, 0, 2]

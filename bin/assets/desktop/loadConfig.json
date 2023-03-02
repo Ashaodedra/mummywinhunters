@@ -1,0 +1,78 @@
+{
+  "load":[
+    {"loader":"loadAtlas", "deviceFolder":true, "resolution":true, "name":"Resources-0", "file":"Atlases/"},
+    {"loader":"loadAtlas", "deviceFolder":true, "resolution":true, "name":"UI-0", "file":"Atlases/"},
+    {"loader":"loadAtlas", "name":"coins", "file":"assets/main/Atlases/"},
+    {
+      "loader":"loadAtlas", "deviceFolder":false, "resolution":true, "name":"Local-eng-0", "file":"assets/main/Atlases/",
+      "locMap":{
+        "deu":"Local-deu-0",
+        "esp":"Local-esp-0",
+        "fra":"Local-fra-0",
+        "gre":"Local-gre-0",
+        "hin":"Local-hin-0",
+        "ind":"Local-ind-0",
+        "ita":"Local-ita-0",
+        "jpn":"Local-jpn-0",
+        "kor":"Local-kor-0",
+        "nor":"Local-nor-0",
+        "pol":"Local-pol-0",
+        "prt":"Local-prt-0",
+        "ron":"Local-ron-0",
+        "rus":"Local-rus-0",
+        "swe":"Local-swe-0",
+        "tha":"Local-tha-0",
+        "tur":"Local-tur-0",
+        "ukr":"Local-ukr-0",
+        "vie":"Local-vie-0",
+        "zh_cn":"Local-zh_cn-0",
+        "zh_tw":"Local-zh_tw-0"
+      }
+    },
+
+    {"loader":"loadImage", "deviceFolder":false, "name":"main_bg.jpg", "file":"assets/main/Single/"},
+
+    {"loader":"loadImage", "active":false, "name":"main.png", "file":"assets/Preview/desktop/"},
+
+    {"loader":"loadAnimationAtlas", "active":false, "url":"assets/main/Animations/", "pref":"effects-", "suf":"", "round":[0, 2]},
+
+    {"loader":"loadSpine", "url":"assets/main/Animations/Spine/", "pref":"symb_", "suf":"", "round":[0, 7]},
+    {"loader":"loadSpine", "name":"fireworks", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "active":true, "name":"frame_particle", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"logo", "file":"assets/main/Animations/Spine/"},
+
+    {"loader":"loadAudioSprite", "name":"sounds", "file":"assets/Sounds/AudioSprite/sounds"},
+
+    {
+      "loader":"loadBitmapFont", "name":"paytable_font", "file":"assets/font/", "locMap":{
+      "jpn":"paytable_font_jp-JP",
+      "hin":"paytable_font_hi-HIN",
+      "kor":"paytable_font_ko-KOR",
+      "tha":"paytable_font_th-THA",
+      "zh_cn":"paytable_font_zh-CN",
+      "zh_tw":"paytable_font_zh-TW",
+      "vie":"paytable_font_vi-VIE",
+      "gre":"paytable_font_el-GRE",
+      "pol":"paytable_title_font_pl-POL"
+    }
+    },
+    {"loader":"loadBitmapFont", "name":"win_font", "file":"assets/font/"},
+    {"loader":"loadBitmapFont", "name":"big_win_font", "file":"assets/font/"},
+
+    {"loader":"loadJson", "deviceFolder":true, "name":"GDGui", "file":""},
+    {"loader":"loadJson", "name":"GDMain", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDReality", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDPaytable", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDReels", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDSlotSymbol", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDWinEffect", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"GDIntro", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDHistory", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDHistoryBlock", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDLocalisation", "file":"assets/"}
+  ],
+  "particle":[
+    {"name":"New Bundle", "file":""}
+  ],
+  "spriteSheetEff":null
+}

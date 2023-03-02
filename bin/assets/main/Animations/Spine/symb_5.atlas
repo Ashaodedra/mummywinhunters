@@ -1,0 +1,223 @@
+
+symb_5.png
+size: 1980,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Klubnika
+  rotate: true
+  xy: 1141, 22
+  size: 105, 125
+  orig: 275, 275
+  offset: 85, 75
+  index: -1
+images/Klubnika/Klubnik_00000
+  rotate: true
+  xy: 2, 128
+  size: 125, 149
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00001
+  rotate: true
+  xy: 841, 2
+  size: 125, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00002
+  rotate: true
+  xy: 991, 2
+  size: 125, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00003
+  rotate: true
+  xy: 1079, 129
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00004
+  rotate: true
+  xy: 1229, 129
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00005
+  rotate: true
+  xy: 1379, 129
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00006
+  rotate: true
+  xy: 1529, 129
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00007
+  rotate: false
+  xy: 1680, 258
+  size: 127, 148
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00008
+  rotate: false
+  xy: 777, 257
+  size: 127, 149
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00009
+  rotate: false
+  xy: 906, 257
+  size: 127, 149
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00010
+  rotate: false
+  xy: 1035, 257
+  size: 127, 149
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00011
+  rotate: false
+  xy: 1164, 257
+  size: 127, 149
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00012
+  rotate: false
+  xy: 390, 256
+  size: 127, 150
+  orig: 275, 275
+  offset: 73, 65
+  index: -1
+images/Klubnika/Klubnik_00013
+  rotate: false
+  xy: 519, 256
+  size: 127, 150
+  orig: 275, 275
+  offset: 73, 65
+  index: -1
+images/Klubnika/Klubnik_00014
+  rotate: false
+  xy: 132, 255
+  size: 127, 151
+  orig: 275, 275
+  offset: 73, 65
+  index: -1
+images/Klubnika/Klubnik_00015
+  rotate: false
+  xy: 2, 255
+  size: 128, 151
+  orig: 275, 275
+  offset: 72, 65
+  index: -1
+images/Klubnika/Klubnik_00016
+  rotate: false
+  xy: 261, 255
+  size: 127, 151
+  orig: 275, 275
+  offset: 73, 65
+  index: -1
+images/Klubnika/Klubnik_00017
+  rotate: false
+  xy: 1293, 257
+  size: 127, 149
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00018
+  rotate: false
+  xy: 648, 256
+  size: 127, 150
+  orig: 275, 275
+  offset: 73, 65
+  index: -1
+images/Klubnika/Klubnik_00019
+  rotate: false
+  xy: 1422, 257
+  size: 127, 149
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00020
+  rotate: false
+  xy: 1551, 257
+  size: 127, 149
+  orig: 275, 275
+  offset: 73, 66
+  index: -1
+images/Klubnika/Klubnik_00021
+  rotate: false
+  xy: 1809, 257
+  size: 126, 149
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00022
+  rotate: true
+  xy: 777, 129
+  size: 126, 149
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00023
+  rotate: true
+  xy: 928, 129
+  size: 126, 149
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00024
+  rotate: true
+  xy: 1679, 129
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00025
+  rotate: true
+  xy: 1829, 129
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00026
+  rotate: true
+  xy: 390, 128
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00027
+  rotate: true
+  xy: 540, 128
+  size: 126, 148
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00028
+  rotate: true
+  xy: 153, 128
+  size: 125, 149
+  orig: 275, 275
+  offset: 74, 66
+  index: -1
+images/Klubnika/Klubnik_00029
+  rotate: true
+  xy: 690, 2
+  size: 125, 149
+  orig: 275, 275
+  offset: 74, 66
+  index: -1

@@ -1,0 +1,20 @@
+{"frames": {
+
+"big_win_pl-POL":
+{
+	"frame": {"x":1,"y":1,"w":519,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":519,"h":137},
+	"sourceSize": {"w":519,"h":137}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Local-pol-0@0.75.png",
+	"format": "RGBA8888",
+	"size": {"w":521,"h":139},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:2fa86e8158d89fef2f5d558efbf9ec64:8a6623f821a27d9b55206a7bf243d079:4b50ab48e29c4a8ea71163503113cc1d$"
+}
+}

@@ -1,0 +1,457 @@
+
+frame_particle.png
+size: 1916,1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/N/Slot new HD01
+  rotate: false
+  xy: 642, 1087
+  size: 632, 360
+  orig: 640, 360
+  offset: 4, 0
+  index: -1
+images/N/Slot new HD02
+  rotate: false
+  xy: 2, 1448
+  size: 638, 360
+  orig: 640, 360
+  offset: 1, 0
+  index: -1
+images/N/Slot new HD03
+  rotate: false
+  xy: 633, 2
+  size: 624, 360
+  orig: 640, 360
+  offset: 13, 0
+  index: -1
+images/N/Slot new HD04
+  rotate: false
+  xy: 1267, 366
+  size: 629, 359
+  orig: 640, 360
+  offset: 10, 1
+  index: -1
+images/N/Slot new HD16
+  rotate: false
+  xy: 632, 364
+  size: 626, 360
+  orig: 640, 360
+  offset: 14, 0
+  index: -1
+images/N/Slot new HD19
+  rotate: false
+  xy: 2, 362
+  size: 626, 360
+  orig: 640, 360
+  offset: 8, 0
+  index: -1
+images/N/Slot new HD20
+  rotate: false
+  xy: 635, 726
+  size: 630, 359
+  orig: 640, 360
+  offset: 6, 0
+  index: -1
+images/N/Slot new HD22
+  rotate: false
+  xy: 1276, 727
+  size: 629, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+images/N/Slot new HD30
+  rotate: false
+  xy: 2, 1086
+  size: 631, 360
+  orig: 640, 360
+  offset: 4, 0
+  index: -1
+images/N/Slot new HD31
+  rotate: false
+  xy: 1276, 1089
+  size: 636, 357
+  orig: 640, 360
+  offset: 1, 2
+  index: -1
+images/N/Slot new HD34
+  rotate: false
+  xy: 2, 724
+  size: 628, 360
+  orig: 640, 360
+  offset: 10, 0
+  index: -1
+images/N/Slot new HD37
+  rotate: false
+  xy: 2, 2
+  size: 629, 358
+  orig: 640, 360
+  offset: 3, 0
+  index: -1
+images/N/Slot new HD38
+  rotate: false
+  xy: 1279, 1448
+  size: 633, 360
+  orig: 640, 360
+  offset: 1, 0
+  index: -1
+images/N/Slot new HD55
+  rotate: false
+  xy: 642, 1449
+  size: 635, 359
+  orig: 640, 360
+  offset: 0, 1
+  index: -1
+images/N/Slot new HD57
+  rotate: false
+  xy: 1260, 4
+  size: 626, 360
+  orig: 640, 360
+  offset: 14, 0
+  index: -1
+
+frame_particle2.png
+size: 1884,1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/N/Slot new HD06
+  rotate: false
+  xy: 630, 1449
+  size: 624, 360
+  orig: 640, 360
+  offset: 5, 0
+  index: -1
+images/N/Slot new HD15
+  rotate: false
+  xy: 2, 2
+  size: 621, 360
+  orig: 640, 360
+  offset: 17, 0
+  index: -1
+images/N/Slot new HD17
+  rotate: true
+  xy: 627, 459
+  size: 626, 358
+  orig: 640, 360
+  offset: 14, 2
+  index: -1
+images/N/Slot new HD21
+  rotate: false
+  xy: 987, 365
+  size: 624, 359
+  orig: 640, 360
+  offset: 3, 1
+  index: -1
+images/N/Slot new HD26
+  rotate: false
+  xy: 1256, 1449
+  size: 624, 360
+  orig: 640, 360
+  offset: 15, 0
+  index: -1
+images/N/Slot new HD29
+  rotate: false
+  xy: 1254, 1088
+  size: 625, 359
+  orig: 640, 360
+  offset: 7, 1
+  index: -1
+images/N/Slot new HD32
+  rotate: false
+  xy: 2, 1088
+  size: 624, 360
+  orig: 640, 360
+  offset: 15, 0
+  index: -1
+images/N/Slot new HD33
+  rotate: false
+  xy: 2, 726
+  size: 623, 360
+  orig: 640, 360
+  offset: 13, 0
+  index: -1
+images/N/Slot new HD36
+  rotate: false
+  xy: 628, 1087
+  size: 624, 360
+  orig: 640, 360
+  offset: 5, 0
+  index: -1
+images/N/Slot new HD40
+  rotate: false
+  xy: 1254, 726
+  size: 623, 360
+  orig: 640, 360
+  offset: 16, 0
+  index: -1
+images/N/Slot new HD42
+  rotate: false
+  xy: 626, 5
+  size: 625, 358
+  orig: 640, 360
+  offset: 11, 2
+  index: -1
+images/N/Slot new HD53
+  rotate: false
+  xy: 2, 1450
+  size: 626, 359
+  orig: 640, 360
+  offset: 4, 1
+  index: -1
+images/N/Slot new HD56
+  rotate: false
+  xy: 1253, 3
+  size: 621, 360
+  orig: 640, 360
+  offset: 17, 0
+  index: -1
+images/N/Slot new HD59
+  rotate: false
+  xy: 2, 364
+  size: 622, 360
+  orig: 640, 360
+  offset: 9, 0
+  index: -1
+
+frame_particle3.png
+size: 1964,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/N/Slot new HD05
+  rotate: false
+  xy: 627, 1684
+  size: 619, 360
+  orig: 640, 360
+  offset: 8, 0
+  index: -1
+images/N/Slot new HD13
+  rotate: true
+  xy: 625, 343
+  size: 615, 360
+  orig: 640, 360
+  offset: 20, 0
+  index: -1
+images/N/Slot new HD14
+  rotate: false
+  xy: 1242, 962
+  size: 618, 359
+  orig: 640, 360
+  offset: 17, 1
+  index: -1
+images/N/Slot new HD25
+  rotate: false
+  xy: 1248, 1684
+  size: 619, 360
+  orig: 640, 360
+  offset: 18, 0
+  index: -1
+images/N/Slot new HD27
+  rotate: false
+  xy: 2, 962
+  size: 616, 360
+  orig: 640, 360
+  offset: 12, 0
+  index: -1
+images/N/Slot new HD28
+  rotate: false
+  xy: 2, 601
+  size: 621, 357
+  orig: 640, 360
+  offset: 9, 3
+  index: -1
+images/N/Slot new HD35
+  rotate: false
+  xy: 1242, 1323
+  size: 619, 359
+  orig: 640, 360
+  offset: 8, 1
+  index: -1
+images/N/Slot new HD39
+  rotate: false
+  xy: 2, 1324
+  size: 618, 360
+  orig: 640, 360
+  offset: 18, 0
+  index: -1
+images/N/Slot new HD43
+  rotate: false
+  xy: 620, 960
+  size: 616, 360
+  orig: 640, 360
+  offset: 16, 0
+  index: -1
+images/N/Slot new HD44
+  rotate: false
+  xy: 987, 238
+  size: 614, 360
+  orig: 640, 360
+  offset: 20, 0
+  index: -1
+images/N/Slot new HD46
+  rotate: true
+  xy: 1603, 2
+  size: 596, 358
+  orig: 640, 360
+  offset: 38, 1
+  index: -1
+images/N/Slot new HD47
+  rotate: false
+  xy: 622, 1322
+  size: 618, 360
+  orig: 640, 360
+  offset: 18, 0
+  index: -1
+images/N/Slot new HD48
+  rotate: false
+  xy: 2, 1686
+  size: 623, 358
+  orig: 640, 360
+  offset: 16, 1
+  index: -1
+images/N/Slot new HD51
+  rotate: false
+  xy: 1238, 600
+  size: 616, 360
+  orig: 640, 360
+  offset: 9, 0
+  index: -1
+images/N/Slot new HD58
+  rotate: false
+  xy: 2, 240
+  size: 616, 359
+  orig: 640, 360
+  offset: 12, 1
+  index: -1
+
+frame_particle4.png
+size: 2012,1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dast
+  rotate: true
+  xy: 1692, 369
+  size: 456, 317
+  orig: 504, 357
+  offset: 26, 22
+  index: -1
+images/N/Slot new HD00
+  rotate: false
+  xy: 2, 1449
+  size: 613, 360
+  orig: 640, 360
+  offset: 21, 0
+  index: -1
+images/N/Slot new HD07
+  rotate: true
+  xy: 618, 980
+  size: 608, 360
+  orig: 640, 360
+  offset: 23, 0
+  index: -1
+images/N/Slot new HD08
+  rotate: true
+  xy: 1342, 987
+  size: 601, 360
+  orig: 640, 360
+  offset: 21, 0
+  index: -1
+images/N/Slot new HD11
+  rotate: true
+  xy: 980, 983
+  size: 605, 360
+  orig: 640, 360
+  offset: 25, 0
+  index: -1
+images/N/Slot new HD12
+  rotate: false
+  xy: 2, 726
+  size: 610, 360
+  orig: 640, 360
+  offset: 22, 0
+  index: -1
+images/N/Slot new HD18
+  rotate: true
+  xy: 1333, 369
+  size: 608, 357
+  orig: 640, 360
+  offset: 11, 2
+  index: -1
+images/N/Slot new HD23
+  rotate: true
+  xy: 973, 369
+  size: 609, 358
+  orig: 640, 360
+  offset: 23, 2
+  index: -1
+images/N/Slot new HD24
+  rotate: false
+  xy: 2, 1088
+  size: 614, 359
+  orig: 640, 360
+  offset: 20, 1
+  index: -1
+images/N/Slot new HD41
+  rotate: false
+  xy: 2, 5
+  size: 614, 357
+  orig: 640, 360
+  offset: 20, 3
+  index: -1
+images/N/Slot new HD45
+  rotate: true
+  xy: 614, 364
+  size: 614, 357
+  orig: 640, 360
+  offset: 18, 3
+  index: -1
+images/N/Slot new HD49
+  rotate: false
+  xy: 618, 2
+  size: 608, 360
+  orig: 640, 360
+  offset: 14, 0
+  index: -1
+images/N/Slot new HD52
+  rotate: false
+  xy: 1228, 7
+  size: 600, 360
+  orig: 640, 360
+  offset: 27, 0
+  index: -1
+images/N/Slot new HD54
+  rotate: false
+  xy: 2, 364
+  size: 609, 360
+  orig: 640, 360
+  offset: 24, 0
+  index: -1
+
+frame_particle5.png
+size: 1796,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/N/Slot new HD09
+  rotate: false
+  xy: 603, 3
+  size: 594, 359
+  orig: 640, 360
+  offset: 30, 1
+  index: -1
+images/N/Slot new HD10
+  rotate: false
+  xy: 2, 3
+  size: 599, 359
+  orig: 640, 360
+  offset: 28, 1
+  index: -1
+images/N/Slot new HD50
+  rotate: false
+  xy: 1199, 2
+  size: 592, 360
+  orig: 640, 360
+  offset: 31, 0
+  index: -1

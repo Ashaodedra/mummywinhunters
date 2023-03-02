@@ -1,0 +1,223 @@
+
+symb_4.png
+size: 404,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Sliva
+  rotate: false
+  xy: 271, 1402
+  size: 111, 141
+  orig: 275, 275
+  offset: 82, 67
+  index: -1
+images/Sliva/Salor_00000
+  rotate: false
+  xy: 271, 1879
+  size: 131, 165
+  orig: 275, 275
+  offset: 72, 59
+  index: -1
+images/Sliva/Salor_00001
+  rotate: false
+  xy: 271, 1712
+  size: 131, 165
+  orig: 275, 275
+  offset: 72, 59
+  index: -1
+images/Sliva/Salor_00002
+  rotate: false
+  xy: 138, 1709
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00003
+  rotate: false
+  xy: 138, 1541
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00004
+  rotate: false
+  xy: 138, 1373
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00005
+  rotate: false
+  xy: 137, 682
+  size: 132, 166
+  orig: 275, 275
+  offset: 71, 58
+  index: -1
+images/Sliva/Salor_00006
+  rotate: false
+  xy: 138, 1205
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00007
+  rotate: false
+  xy: 136, 170
+  size: 132, 167
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00008
+  rotate: false
+  xy: 137, 513
+  size: 131, 167
+  orig: 275, 275
+  offset: 72, 57
+  index: -1
+images/Sliva/Salor_00009
+  rotate: false
+  xy: 2, 339
+  size: 132, 168
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00010
+  rotate: false
+  xy: 2, 169
+  size: 132, 168
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00011
+  rotate: false
+  xy: 2, 849
+  size: 133, 168
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00012
+  rotate: false
+  xy: 2, 1189
+  size: 134, 168
+  orig: 275, 275
+  offset: 70, 57
+  index: -1
+images/Sliva/Salor_00013
+  rotate: false
+  xy: 2, 1359
+  size: 134, 169
+  orig: 275, 275
+  offset: 70, 57
+  index: -1
+images/Sliva/Salor_00014
+  rotate: false
+  xy: 2, 1874
+  size: 134, 170
+  orig: 275, 275
+  offset: 70, 56
+  index: -1
+images/Sliva/Salor_00015
+  rotate: false
+  xy: 2, 1702
+  size: 134, 170
+  orig: 275, 275
+  offset: 70, 56
+  index: -1
+images/Sliva/Salor_00016
+  rotate: false
+  xy: 2, 1530
+  size: 134, 170
+  orig: 275, 275
+  offset: 70, 56
+  index: -1
+images/Sliva/Salor_00017
+  rotate: false
+  xy: 2, 1019
+  size: 134, 168
+  orig: 275, 275
+  offset: 70, 57
+  index: -1
+images/Sliva/Salor_00018
+  rotate: false
+  xy: 2, 679
+  size: 133, 168
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00019
+  rotate: false
+  xy: 2, 509
+  size: 133, 168
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00020
+  rotate: true
+  xy: 2, 35
+  size: 132, 168
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00021
+  rotate: false
+  xy: 136, 339
+  size: 132, 168
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00022
+  rotate: false
+  xy: 138, 1877
+  size: 131, 167
+  orig: 275, 275
+  offset: 72, 57
+  index: -1
+images/Sliva/Salor_00023
+  rotate: false
+  xy: 137, 850
+  size: 132, 167
+  orig: 275, 275
+  offset: 71, 57
+  index: -1
+images/Sliva/Salor_00024
+  rotate: false
+  xy: 138, 1037
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00025
+  rotate: false
+  xy: 172, 2
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00026
+  rotate: false
+  xy: 270, 514
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00027
+  rotate: false
+  xy: 270, 346
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00028
+  rotate: false
+  xy: 270, 178
+  size: 131, 166
+  orig: 275, 275
+  offset: 72, 58
+  index: -1
+images/Sliva/Salor_00029
+  rotate: false
+  xy: 271, 1545
+  size: 131, 165
+  orig: 275, 275
+  offset: 72, 59
+  index: -1

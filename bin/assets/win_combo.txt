@@ -1,0 +1,6 @@
+win scatter = [12,22,37,0,0]
+win 1-line coins = [11,60,46,7,44]
+win multi-line = []
+win coins = [13,45,56,70,56]
+win coins 2 = [18,91,27,7,9]
+big win = [16,92,50,13,92]

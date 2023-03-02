@@ -1,0 +1,13 @@
+
+logo.png
+size: 108,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Logo
+  rotate: false
+  xy: 2, 2
+  size: 104, 53
+  orig: 118, 70
+  offset: 8, 9
+  index: -1

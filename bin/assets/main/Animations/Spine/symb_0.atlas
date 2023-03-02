@@ -1,0 +1,223 @@
+
+symb_0.png
+size: 2004,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Vishnya/Bal_00000
+  rotate: false
+  xy: 154, 2
+  size: 149, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00001
+  rotate: false
+  xy: 1848, 143
+  size: 149, 140
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00002
+  rotate: false
+  xy: 305, 2
+  size: 149, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00003
+  rotate: false
+  xy: 157, 143
+  size: 150, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00004
+  rotate: false
+  xy: 309, 143
+  size: 150, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00005
+  rotate: false
+  xy: 1542, 143
+  size: 151, 140
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00006
+  rotate: false
+  xy: 1238, 285
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00007
+  rotate: false
+  xy: 1391, 285
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00008
+  rotate: false
+  xy: 1544, 285
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00009
+  rotate: false
+  xy: 1697, 285
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00010
+  rotate: false
+  xy: 777, 284
+  size: 151, 142
+  orig: 275, 275
+  offset: 62, 71
+  index: -1
+images/Vishnya/Bal_00011
+  rotate: false
+  xy: 930, 285
+  size: 152, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00012
+  rotate: false
+  xy: 1850, 285
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00013
+  rotate: false
+  xy: 467, 285
+  size: 153, 141
+  orig: 275, 275
+  offset: 61, 72
+  index: -1
+images/Vishnya/Bal_00014
+  rotate: false
+  xy: 157, 284
+  size: 153, 142
+  orig: 275, 275
+  offset: 61, 72
+  index: -1
+images/Vishnya/Bal_00015
+  rotate: false
+  xy: 2, 283
+  size: 153, 143
+  orig: 275, 275
+  offset: 61, 71
+  index: -1
+images/Vishnya/Bal_00016
+  rotate: false
+  xy: 312, 284
+  size: 153, 142
+  orig: 275, 275
+  offset: 61, 72
+  index: -1
+images/Vishnya/Bal_00017
+  rotate: false
+  xy: 622, 285
+  size: 153, 141
+  orig: 275, 275
+  offset: 61, 72
+  index: -1
+images/Vishnya/Bal_00018
+  rotate: false
+  xy: 467, 142
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00019
+  rotate: false
+  xy: 1084, 285
+  size: 152, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00020
+  rotate: false
+  xy: 620, 142
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00021
+  rotate: false
+  xy: 930, 142
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00022
+  rotate: false
+  xy: 1083, 142
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00023
+  rotate: false
+  xy: 1236, 142
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00024
+  rotate: false
+  xy: 1389, 142
+  size: 151, 141
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00025
+  rotate: false
+  xy: 1695, 143
+  size: 151, 140
+  orig: 275, 275
+  offset: 62, 72
+  index: -1
+images/Vishnya/Bal_00026
+  rotate: false
+  xy: 773, 143
+  size: 150, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00027
+  rotate: false
+  xy: 2, 142
+  size: 150, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00028
+  rotate: false
+  xy: 773, 2
+  size: 149, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/Vishnya/Bal_00029
+  rotate: false
+  xy: 1542, 2
+  size: 149, 139
+  orig: 275, 275
+  offset: 63, 73
+  index: -1
+images/vishnya
+  rotate: false
+  xy: 1693, 20
+  size: 129, 121
+  orig: 275, 275
+  offset: 73, 78
+  index: -1

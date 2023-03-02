@@ -1,0 +1,223 @@
+
+symb_3.png
+size: 1996,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Vinagrad
+  rotate: false
+  xy: 137, 4
+  size: 110, 127
+  orig: 275, 275
+  offset: 82, 74
+  index: -1
+images/Xaxox/Xaxox_00000
+  rotate: true
+  xy: 866, 3
+  size: 131, 150
+  orig: 275, 275
+  offset: 71, 65
+  index: -1
+images/Xaxox/Xaxox_00001
+  rotate: true
+  xy: 1018, 3
+  size: 131, 150
+  orig: 275, 275
+  offset: 71, 65
+  index: -1
+images/Xaxox/Xaxox_00002
+  rotate: true
+  xy: 1426, 3
+  size: 132, 151
+  orig: 275, 275
+  offset: 70, 64
+  index: -1
+images/Xaxox/Xaxox_00003
+  rotate: true
+  xy: 146, 133
+  size: 133, 152
+  orig: 275, 275
+  offset: 70, 64
+  index: -1
+images/Xaxox/Xaxox_00004
+  rotate: true
+  xy: 1840, 138
+  size: 133, 152
+  orig: 275, 275
+  offset: 70, 64
+  index: -1
+images/Xaxox/Xaxox_00005
+  rotate: true
+  xy: 1022, 136
+  size: 133, 153
+  orig: 275, 275
+  offset: 70, 63
+  index: -1
+images/Xaxox/Xaxox_00006
+  rotate: true
+  xy: 1426, 137
+  size: 133, 153
+  orig: 275, 275
+  offset: 70, 63
+  index: -1
+images/Xaxox/Xaxox_00007
+  rotate: true
+  xy: 710, 135
+  size: 134, 154
+  orig: 275, 275
+  offset: 69, 63
+  index: -1
+images/Xaxox/Xaxox_00008
+  rotate: false
+  xy: 1822, 273
+  size: 135, 155
+  orig: 275, 275
+  offset: 69, 62
+  index: -1
+images/Xaxox/Xaxox_00009
+  rotate: false
+  xy: 1270, 272
+  size: 136, 156
+  orig: 275, 275
+  offset: 68, 62
+  index: -1
+images/Xaxox/Xaxox_00010
+  rotate: false
+  xy: 1408, 272
+  size: 136, 156
+  orig: 275, 275
+  offset: 68, 62
+  index: -1
+images/Xaxox/Xaxox_00011
+  rotate: false
+  xy: 992, 271
+  size: 137, 157
+  orig: 275, 275
+  offset: 68, 62
+  index: -1
+images/Xaxox/Xaxox_00012
+  rotate: false
+  xy: 710, 271
+  size: 139, 157
+  orig: 275, 275
+  offset: 67, 62
+  index: -1
+images/Xaxox/Xaxox_00013
+  rotate: false
+  xy: 430, 269
+  size: 138, 159
+  orig: 275, 275
+  offset: 67, 61
+  index: -1
+images/Xaxox/Xaxox_00014
+  rotate: false
+  xy: 146, 268
+  size: 140, 160
+  orig: 275, 275
+  offset: 66, 61
+  index: -1
+images/Xaxox/Xaxox_00015
+  rotate: false
+  xy: 2, 267
+  size: 142, 161
+  orig: 275, 275
+  offset: 65, 60
+  index: -1
+images/Xaxox/Xaxox_00016
+  rotate: false
+  xy: 288, 268
+  size: 140, 160
+  orig: 275, 275
+  offset: 66, 61
+  index: -1
+images/Xaxox/Xaxox_00017
+  rotate: false
+  xy: 570, 269
+  size: 138, 159
+  orig: 275, 275
+  offset: 67, 61
+  index: -1
+images/Xaxox/Xaxox_00018
+  rotate: false
+  xy: 851, 271
+  size: 139, 157
+  orig: 275, 275
+  offset: 67, 62
+  index: -1
+images/Xaxox/Xaxox_00019
+  rotate: false
+  xy: 1131, 271
+  size: 137, 157
+  orig: 275, 275
+  offset: 68, 62
+  index: -1
+images/Xaxox/Xaxox_00020
+  rotate: false
+  xy: 1546, 272
+  size: 136, 156
+  orig: 275, 275
+  offset: 68, 62
+  index: -1
+images/Xaxox/Xaxox_00021
+  rotate: false
+  xy: 1684, 273
+  size: 136, 155
+  orig: 275, 275
+  offset: 68, 63
+  index: -1
+images/Xaxox/Xaxox_00022
+  rotate: true
+  xy: 1684, 136
+  size: 135, 154
+  orig: 275, 275
+  offset: 69, 63
+  index: -1
+images/Xaxox/Xaxox_00023
+  rotate: true
+  xy: 1270, 135
+  size: 135, 154
+  orig: 275, 275
+  offset: 69, 63
+  index: -1
+images/Xaxox/Xaxox_00024
+  rotate: true
+  xy: 866, 136
+  size: 133, 154
+  orig: 275, 275
+  offset: 70, 63
+  index: -1
+images/Xaxox/Xaxox_00025
+  rotate: true
+  xy: 430, 134
+  size: 133, 153
+  orig: 275, 275
+  offset: 70, 63
+  index: -1
+images/Xaxox/Xaxox_00026
+  rotate: false
+  xy: 2, 113
+  size: 133, 152
+  orig: 275, 275
+  offset: 70, 64
+  index: -1
+images/Xaxox/Xaxox_00027
+  rotate: true
+  xy: 1840, 3
+  size: 133, 152
+  orig: 275, 275
+  offset: 70, 64
+  index: -1
+images/Xaxox/Xaxox_00028
+  rotate: true
+  xy: 1579, 3
+  size: 131, 150
+  orig: 275, 275
+  offset: 71, 65
+  index: -1
+images/Xaxox/Xaxox_00029
+  rotate: true
+  xy: 585, 2
+  size: 131, 150
+  orig: 275, 275
+  offset: 71, 65
+  index: -1

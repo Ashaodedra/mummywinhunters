@@ -1,0 +1,504 @@
+{
+  "sdx": 0.5,
+  "sdy": 0.5,
+  "debug": 0,
+  "wait_delay_loop": 0,
+  "timer_start_free": 2.2,
+  "reelMask": {
+    "x": -37,
+    "y": 99,
+    "width": 1000,
+    "height": 560,
+    "debug": 0
+  },
+  "m_reelMask": {
+    "x": -37,
+    "y": 99,
+    "width": 890,
+    "height": 503,
+    "debug": 0
+  },
+  "entities": [
+    {
+      "x": 0,
+      "y": 0,
+      "m_x": 0,
+      "m_y": 0,
+      "sdx": -0.5,
+      "sdy": -0.5,
+      "v_x": 0,
+      "v_y": 0,
+      "m_i_width": 1920,
+      "m_i_height": 1080,
+      "v_i_width": 1920,
+      "v_i_height": 1080,
+      "interactiveChildren": false,
+      "centered": false,
+      "type": "container",
+      "name": "c_game_bg",
+      "debug": 0,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "v_x": -147,
+          "v_y": -22,
+          "type": "sprite",
+          "texture": "main_bg.jpg",
+          "1v_texture": "game_bg_v",
+          "name": "s_game_bg",
+          "debug": 0
+        }
+      ]
+    },
+    {
+      "x": 597,
+      "y": 520,
+      "dx": 0,
+      "dy": 0,
+      "speed": 1,
+      "v_x": 559,
+      "v_y": 394,
+      "v_scale": 0.77,
+      "play": false,
+      "playLoop": false,
+      "textures": "fireworks",
+      "custom_a_name": "Firework_animation",
+      "name": "a_fireworks1",
+      "type": "actorSpine",
+      "debug": 0
+    },
+    {
+      "x": 1293,
+      "y": 426,
+      "dx": 0,
+      "dy": 0,
+      "speed": 1,
+      "v_x": -23,
+      "v_y": 945,
+      "v_scale": 0.77,
+      "play": false,
+      "playLoop": false,
+      "textures": "fireworks",
+      "custom_a_name": "Firework_animation",
+      "name": "a_fireworks2",
+      "type": "actorSpine",
+      "debug": 0
+    },
+    {
+      "x": 251,
+      "y": 0,
+      "v_x": 0,
+      "v_y": 204,
+      "v_sdy": 0,
+      "v_scale": 0.67,
+      "interactiveChildren": false,
+      "type": "container",
+      "debug": 0,
+      "name": "reels",
+      "entities": [
+        {
+          "x": 393,
+          "y": 360,
+          "dx": 0,
+          "dy": 0,
+          "speed": 1,
+          "scale": 1,
+          "play": true,
+          "playLoop": true,
+          "textures": "frame_particle",
+          "custom_a_name": "particle_animation",
+          "name": "a_frame",
+          "type": "actorSpine",
+          "debug": 0,
+          "active": 1
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "interactiveChildren": true,
+          "centered": false,
+          "cacheAsBitmap": false,
+          "type": "container",
+          "name": "c_particles",
+          "debug": 0,
+          "active": 0,
+          "entities": [
+            {
+              "x": 404,
+              "y": 367,
+              "debug": 0,
+              "autoStart": true,
+              "scaleMod": 1.0,
+              "name": "re_glow_smoke",
+              "interactiveChildren": true,
+              "revoltName": "glow_smoke",
+              "type": "revoltEmmiter"
+            },
+            {
+              "x": 404,
+              "y": 343,
+              "debug": 0,
+              "autoStart": true,
+              "scaleMod": 1.0,
+              "name": "re_sparks",
+              "interactiveChildren": true,
+              "revoltName": "sparks",
+              "type": "revoltEmmiter"
+            }
+          ],
+          "1alignContainer": {
+            "x": 0,
+            "y": 0,
+            "rect": {
+              "width": 10,
+              "height": 10
+            },
+            "edit": false
+          }
+        },
+        {
+          "x": -78,
+          "y": 3,
+          "scaleX": 1.003,
+          "scaleY": 1,
+          "type": "sprite",
+          "texture": "reel_grid",
+          "name": "s_reel_grid",
+          "debug": 0
+        },
+        {
+          "x": -57,
+          "y": -73,
+          "debug": 0,
+          "name": "reel_canvas",
+          "type": "container"
+        },
+        {
+          "x": -77,
+          "y": 2,
+          "texture": "main_frame",
+          "name": "main_frame",
+          "type": "sprite",
+          "debug": 0,
+          "alpha": 1
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "interactiveChildren": true,
+          "centered": false,
+          "cacheAsBitmap": false,
+          "type": "container",
+          "name": "c_effects",
+          "debug": 0,
+          "active": 0,
+          "alpha_time": 1.0,
+          "entities": [
+            {
+              "x": 467,
+              "y": 310,
+              "scaleY": 1.017,
+              "dx": 0,
+              "dy": 0,
+              "speed": 1,
+              "play": true,
+              "playLoop": false,
+              "textures": "anticipation",
+              "custom_a_name": "idle",
+              "name": "reel_2",
+              "type": "actorSpine",
+              "debug": 0
+            },
+            {
+              "x": 643,
+              "y": 310,
+              "scaleY": 1.017,
+              "dx": 0,
+              "dy": 0,
+              "speed": 1,
+              "play": true,
+              "playLoop": false,
+              "textures": "anticipation",
+              "custom_a_name": "idle",
+              "name": "reel_3",
+              "type": "actorSpine",
+              "debug": 0
+            },
+            {
+              "x": 817,
+              "y": 310,
+              "scaleY": 1.017,
+              "dx": 0,
+              "dy": 0,
+              "speed": 1,
+              "play": true,
+              "playLoop": false,
+              "textures": "anticipation",
+              "custom_a_name": "idle",
+              "name": "reel_4",
+              "type": "actorSpine",
+              "debug": 0
+            }
+          ]
+        },
+        {
+          "x": 404,
+          "y": 375,
+          "dx": 0,
+          "dy": 0,
+          "speed": 1,
+          "scale": 0.53,
+          "play": true,
+          "playLoop": true,
+          "textures": "logo",
+          "custom_a_name": "logo_animation",
+          "name": "a_logo",
+          "type": "actorSpine",
+          "debug": 0,
+          "active": 0
+        }
+      ]
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "scale": 0.82,
+      "sdx": 0,
+      "m_sdx": -0.25,
+      "m_sdy": 0,
+      "v_x": 9,
+      "v_y": 22,
+      "v_sdy": -0.5,
+      "v_scale": 0.53,
+      "debug": 0,
+      "name": "c_logo",
+      "type": "container",
+      "centered": false,
+      "deapPosition": true,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "texture": "logo",
+          "name": "s_logo",
+          "type": "sprite",
+          "debug": 0,
+          "alpha": 1
+        }
+      ]
+    },
+    {
+      "x": 644,
+      "y": 310,
+      "v_x": 271,
+      "v_y": 400,
+      "v_sdy": 0,
+      "v_scale": 0.58,
+      "interactiveChildren": false,
+      "centered": false,
+      "type": "container",
+      "name": "c_lines",
+      "debug": 0,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "winlines",
+          "name": "s_all",
+          "debug": 0,
+          "active": 0
+        }
+      ]
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "v_scale": 0.67,
+      "debug": 0,
+      "interactiveChildren": false,
+      "name": "c_win_effect",
+      "type": "container"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "v_x": -112,
+      "v_y": -2,
+      "v_sdy": 0,
+      "v_scale": 0.67,
+      "type": "container",
+      "debug": 0,
+      "name": "c_numbers",
+      "line": {
+        "x": 0,
+        "y": 0,
+        "debug": 0,
+        "autoStart": false,
+        "scaleMod": 1,
+        "time": 1,
+        "name": "re_",
+        "interactiveChildren": true,
+        "revoltName": "winline",
+        "type": "revoltEmmiter"
+      },
+      "entities": [
+        {
+          "x": 151,
+          "y": 72,
+          "interactiveChildren": false,
+          "centered": false,
+          "type": "container",
+          "name": "g_numberLeft",
+          "debug": 0,
+          "entities": [],
+          "texture": "number_",
+          "winTexture": "number_",
+          "blockTexture": null,
+          "number": {
+            "x": 0,
+            "y": 0,
+            "type": "sprite",
+            "debug": 0
+          },
+          "num_": {
+            "x": 0,
+            "y": 0,
+            "m_y": 0,
+            "debug": 0,
+            "anchor": 0.5
+          }
+        },
+        {
+          "x": 1131,
+          "y": 88,
+          "m_x": 1189,
+          "m_y": 62,
+          "interactiveChildren": true,
+          "centered": false,
+          "type": "container",
+          "name": "g_numberRight",
+          "debug": 0,
+          "entities": [],
+          "texture": "number_",
+          "winTexture": "number_",
+          "blockTexture": null,
+          "number": {
+            "x": 0,
+            "y": 0,
+            "anchor": 0.5,
+            "type": "sprite",
+            "debug": 0
+          }
+        },
+        {
+          "x": 465,
+          "y": 132,
+          "interactiveChildren": true,
+          "centered": false,
+          "cacheAsBitmap": false,
+          "type": "container",
+          "name": "c_win_value",
+          "debug": 0,
+          "tween_time": 0.2,
+          "tween_scale_time": 0.05,
+          "entities": [
+            {
+              "x": 0,
+              "y": 0,
+              "anchor": 0.5,
+              "type": "sprite",
+              "texture": "win_shadow",
+              "name": "s_win_shadow",
+              "debug": 0
+            },
+            {
+              "x": 0,
+              "y": -5,
+              "width": 300,
+              "height": 54,
+              "align": "center",
+              "alignV": "middle",
+              "font": {
+                "size": 55,
+                "name": "win_font"
+              },
+              "1fill": "0x000001",
+              "letterSpacing": 1,
+              "checkFontSize": true,
+              "oneLine": true,
+              "toUpperCase": false,
+              "text": "0.00",
+              "type": "textNumberBitmap",
+              "name": "t_value",
+              "debug": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 441,
+      "y": 3,
+      "v_x": 108,
+      "v_y": 198,
+      "v_scale": 0.81,
+      "debug": 0,
+      "active": 0,
+      "name": "c_free_counts",
+      "type": "container",
+      "centered": false,
+      "entities": [
+        {
+          "x": 0,
+          "y": 0,
+          "type": "sprite",
+          "texture": "bonus_tab",
+          "name": "s_bonus_tab",
+          "debug": 0
+        },
+        {
+          "x": 215,
+          "y": 20,
+          "width": 246,
+          "height": 50,
+          "align": "center",
+          "alignV": "middle",
+          "name": "t_field",
+          "font": {
+            "size": 22,
+            "name": "paytable_font"
+          },
+          "checkFontSize": true,
+          "text": "FREE SPIN %s OF %s",
+          "type": "textBitmap",
+          "oneLine": true,
+          "debug": 0
+        },
+        {
+          "x": 47,
+          "y": -3,
+          "scale": 0.26,
+          "textures": {
+            "D": "symb_10",
+            "E": "symb_11",
+            "F": "symb_12",
+            "G": "symb_13",
+            "H": "symb_14",
+            "I": "symb_15",
+            "X": "symb_16",
+            "Y": "symb_17",
+            "Z": "symb_18"
+          },
+          "type": "sprite",
+          "texture": "symb_18",
+          "name": "s_symb",
+          "debug": 0
+        }
+      ]
+    }
+  ],
+  "delay_start_game": 4.125,
+  "delay_end_game": 3.2
+}
