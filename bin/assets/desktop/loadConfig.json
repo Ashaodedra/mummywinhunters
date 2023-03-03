@@ -31,6 +31,7 @@
     },
 
     {"loader":"loadImage", "deviceFolder":false, "name":"main_bg.jpg", "file":"assets/main/Single/"},
+    {"loader":"loadImage", "deviceFolder":false, "name":"paytable_bg.jpg", "file":"assets/desktop/Single/"},
 
     {"loader":"loadImage", "active":false, "name":"main.png", "file":"assets/Preview/desktop/"},
 

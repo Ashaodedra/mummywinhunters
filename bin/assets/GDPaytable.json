@@ -13,11 +13,11 @@
       "x": 0,
       "y": 0,
       "type": "sprite",
-      "texture": "main_bg.jpg",
+      "texture": "paytable_bg.jpg",
       "name": "s_help_bg",
       "debug": 0,
       "alpha": 1,
-      "active": 0
+      "active": 1
     },
     {
       "x": 0,
@@ -28,6 +28,7 @@
       "alpha": 1,
       "type": "rect",
       "name": "s_help_bg",
+      "active": 0,
       "debug": 0
     },
     {
@@ -72,7 +73,7 @@
     },
     {
       "x": 640,
-      "y": 575,
+      "y": 619,
       "sdx": 0,
       "sdy": 0.5,
       "interactiveChildren": true,
@@ -85,7 +86,26 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 0,
+          "type": "button",
+          "name": "b_prev",
+          "out": "b_pt_left_0",
+          "over": "b_pt_left_1",
+          "down": "b_pt_left_2",
+          "block": "b_pt_left_3",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 4,
+            "y": 4,
+            "width": 50,
+            "height": 89,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 60,
           "type": "button",
           "name": "b_p_0",
           "out": "b_p1",
@@ -105,13 +125,13 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 30,
+          "dx": 40,
           "type": "button",
           "name": "b_p_1",
-          "out": "b_p1",
-          "over": "b_p1_active",
-          "down": "b_p1_active",
-          "block": "b_p1_active",
+          "out": "b_p2",
+          "over": "b_p2_active",
+          "down": "b_p2_active",
+          "block": "b_p2_active",
           "debug": 0,
           "hintAreaRect": {
             "x": 16,
@@ -125,13 +145,13 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 30,
+          "dx": 40,
           "type": "button",
           "name": "b_p_2",
-          "out": "b_p1",
-          "over": "b_p1_active",
-          "down": "b_p1_active",
-          "block": "b_p1_active",
+          "out": "b_p3",
+          "over": "b_p3_active",
+          "down": "b_p3_active",
+          "block": "b_p3_active",
           "debug": 0,
           "hintAreaRect": {
             "x": 16,
@@ -145,13 +165,13 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 30,
+          "dx": 40,
           "type": "button",
           "name": "b_p_3",
-          "out": "b_p1",
-          "over": "b_p1_active",
-          "down": "b_p1_active",
-          "block": "b_p1_active",
+          "out": "b_p4",
+          "over": "b_p4_active",
+          "down": "b_p4_active",
+          "block": "b_p4_active",
           "debug": 0,
           "hintAreaRect": {
             "x": 16,
@@ -165,13 +185,13 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 30,
+          "dx": 40,
           "type": "button",
           "name": "b_p_4",
-          "out": "b_p1",
-          "over": "b_p1_active",
-          "down": "b_p1_active",
-          "block": "b_p1_active",
+          "out": "b_p5",
+          "over": "b_p5_active",
+          "down": "b_p5_active",
+          "block": "b_p5_active",
           "debug": 0,
           "hintAreaRect": {
             "x": 16,
@@ -185,13 +205,13 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 30,
+          "dx": 40,
           "type": "button",
           "name": "b_p_5",
-          "out": "b_p1",
-          "over": "b_p1_active",
-          "down": "b_p1_active",
-          "block": "b_p1_active",
+          "out": "b_p6",
+          "over": "b_p6_active",
+          "down": "b_p6_active",
+          "block": "b_p6_active",
           "debug": 0,
           "hintAreaRect": {
             "x": 16,
@@ -205,13 +225,13 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 30,
+          "dx": 3400,
           "type": "button",
           "name": "b_p_6",
-          "out": "b_p1",
-          "over": "b_p1_active",
-          "down": "b_p1_active",
-          "block": "b_p1_active",
+          "out": "b_p7",
+          "over": "b_p7_active",
+          "down": "b_p7_active",
+          "block": "b_p7_active",
           "debug": 0,
           "hintAreaRect": {
             "x": 16,
@@ -225,19 +245,39 @@
         {
           "x": 0,
           "y": 0,
-          "dx": 30,
+          "dx": 40,
           "type": "button",
           "name": "b_p_7",
-          "out": "b_p1",
-          "over": "b_p1_active",
-          "down": "b_p1_active",
-          "block": "b_p1_active",
+          "out": "b_p8",
+          "over": "b_p8_active",
+          "down": "b_p8_active",
+          "block": "b_p8_active",
           "debug": 0,
           "hintAreaRect": {
             "x": 16,
             "y": 26,
             "width": 35,
             "height": 35,
+            "type": 0,
+            "debug": 0
+          }
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "dx": 60,
+          "type": "button",
+          "name": "b_next",
+          "out": "b_pt_right_0",
+          "over": "b_pt_right_1",
+          "down": "b_pt_right_2",
+          "block": "b_pt_right_3",
+          "debug": 0,
+          "hintAreaRect": {
+            "x": 4,
+            "y": 4,
+            "width": 50,
+            "height": 89,
             "type": 0,
             "debug": 0
           }
@@ -253,47 +293,11 @@
         "edit": false
       }
     },
+    
+   
     {
-      "x": 30,
-      "y": 307,
-      "type": "button",
-      "name": "b_prev",
-      "out": "b_pt_left_0",
-      "over": "b_pt_left_1",
-      "down": "b_pt_left_2",
-      "block": "b_pt_left_3",
-      "debug": 0,
-      "hintAreaRect": {
-        "x": 4,
-        "y": 4,
-        "width": 50,
-        "height": 89,
-        "type": 0,
-        "debug": 0
-      }
-    },
-    {
-      "x": 1190,
-      "y": 307,
-      "type": "button",
-      "name": "b_next",
-      "out": "b_pt_right_0",
-      "over": "b_pt_right_1",
-      "down": "b_pt_right_2",
-      "block": "b_pt_right_3",
-      "debug": 0,
-      "hintAreaRect": {
-        "x": 4,
-        "y": 4,
-        "width": 50,
-        "height": 89,
-        "type": 0,
-        "debug": 0
-      }
-    },
-    {
-      "x": 1187,
-      "y": 18,
+      "x": 1215,
+      "y": 2,
       "oneClick": true,
       "type": "button",
       "debug": 0,
@@ -425,8 +429,8 @@
       },
       "entities": [
         {
-          "x": 157,
-          "y": 110,
+          "x": 695,
+          "y": 57,
           "type": "sprite",
           "texture": "pt_1",
           "name": "s_pt_1",
@@ -457,12 +461,12 @@
           "align": "center",
           "alignV": "middle",
           "font": {
-            "size": 41,
+            "size": 45,
             "name": "paytable_font"
           },
           "checkFontSize": true,
           "name": "paytable_p1_t05",
-          "locConst": "paytable_p1_t05",
+          "text": "FREE SPINS",
           "type": "textBitmap",
           "oneLine": true,
           "debug": 0
