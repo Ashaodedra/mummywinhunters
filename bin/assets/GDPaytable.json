@@ -1374,6 +1374,7 @@
       "x": 0,
       "y": 0,
       "cacheAsBitmap": false,
+      
       "jackPot": true,
       "entities": [
         {
