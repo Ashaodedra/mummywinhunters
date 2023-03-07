@@ -130,3 +130,8 @@ body {
     src: url("../assets/font/Akrobat-Black.woff2") format("woff2"),
     url("../assets/font/Akrobat-Black.woff") format("woff");
 }
+@font-face {
+    font-family: "Philosopher";
+    src: url("../assets/font/Philosopher-Bold.woff2") format("woff2"),
+    url("../assets/font/Philosopher-Bold.woff") format("woff");
+}

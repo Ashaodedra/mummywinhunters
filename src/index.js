@@ -32,6 +32,7 @@ function startGame(div_name = "game-content", width = GameConstStatic.GAME_WIDTH
                 "NotoJP",
                 "Kelvinch",
                 "Akrobat",
+                "Philosopher",
             ],
             urls: [AppConst.BASE_PATH + "css/stylesheet.css"],
         },
@@ -90,6 +91,7 @@ function startGame(div_name = "game-content", width = GameConstStatic.GAME_WIDTH
                 }
 
                 window.game = new OMY.OmyGame(config);
+                globalThis.__PIXI_APP__ = window.game;
                 container.appendChild(window.game.view);
                 OMY.Omy.showFPS = AppG.getURLParameter("fps") && AppG.getURLParameter("fps") === "true";
                 OMY.Omy.assets.addFontLocMap({
