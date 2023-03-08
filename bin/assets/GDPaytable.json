@@ -1101,7 +1101,7 @@
           "toUpperCase": false,
           "text":"• The Mummy Win Hunters is a 5-reel, 3-row, 10-line video slot featuring\nWild Substitutions, SCATTER symbols and Free Spins with special\nExpanding Symbol.",
           "type": "textFont",
-          "name": "t_pt3_1",
+          "name": "t_pt4_1",
           "debug": 0
         },
         {
@@ -1125,7 +1125,7 @@
           "toUpperCase": false,
           "text":"• This game is played with 10 fixed bet lines and different bet levels.",
           "type": "textFont",
-          "name": "t_pt3_2",
+          "name": "t_pt4_2",
           "debug": 0
         },
         {
@@ -1149,7 +1149,7 @@
           "toUpperCase": false,
           "text":"• When winning on multiple paylines in a single game round, all winnings\nare added together.",
           "type": "textFont",
-          "name": "t_pt3_3",
+          "name": "t_pt4_3",
           "debug": 0
         },
         {
@@ -1173,7 +1173,7 @@
           "toUpperCase": false,
           "text":"• All winnings from Free Spins and/or Scatters are also added\nto payline wins.",
           "type": "textFont",
-          "name": "t_pt3_4",
+          "name": "t_pt4_4",
           "debug": 0
         },
         {
@@ -1197,7 +1197,7 @@
           "toUpperCase": false,
           "text":"• All winning combinations are paid out at the end of a game round.",
           "type": "textFont",
-          "name": "t_pt3_5",
+          "name": "t_pt4_5",
           "debug": 0
         },
         {
@@ -1221,7 +1221,7 @@
           "toUpperCase": false,
           "text":"• The bet level cannot be changed during a currently running game round.",
           "type": "textFont",
-          "name": "t_pt3_6",
+          "name": "t_pt4_6",
           "debug": 0
         },
         {
@@ -1245,7 +1245,7 @@
           "toUpperCase": false,
           "text":"• The Mummy is WILD symbol, this symbol substitutes all symbols.",
           "type": "textFont",
-          "name": "t_pt3_7",
+          "name": "t_pt4_7",
           "debug": 0
         },
         {
@@ -1269,7 +1269,7 @@
           "toUpperCase": false,
           "text":"• The Mummy is also a SCATTER symbol and can be paid anywhere\non the reels.",
           "type": "textFont",
-          "name": "t_pt3_8",
+          "name": "t_pt4_8",
           "debug": 0
         },
         {
@@ -1293,7 +1293,7 @@
           "toUpperCase": false,
           "text":"• SCATTER wins are multiplied by the total bet staked and are added to\nthe payline wins.",
           "type": "textFont",
-          "name": "t_pt3_9",
+          "name": "t_pt4_9",
           "debug": 0
         },
         {
@@ -1317,7 +1317,7 @@
           "toUpperCase": false,
           "text":"• All wins multiplied by bet staked per line except for SCATTERS.",
           "type": "textFont",
-          "name": "t_pt3_10",
+          "name": "t_pt4_10",
           "debug": 0
         },
         {
@@ -1341,7 +1341,7 @@
           "toUpperCase": false,
           "text":"• All wins pay left to right except SCATTER symbols which pay anywhere\non the reels.",
           "type": "textFont",
-          "name": "t_pt3_11",
+          "name": "t_pt4_11",
           "debug": 0
         },
         {
@@ -1365,7 +1365,7 @@
           "toUpperCase": false,
           "text":"• Only the highest winning combination on each line is paid.",
           "type": "textFont",
-          "name": "t_pt3_12",
+          "name": "t_pt4_12",
           "debug": 0
         }
       ]
@@ -1378,18 +1378,18 @@
       "jackPot": true,
       "entities": [
         {
-          "x": 321,
-          "y": 33,
+          "x": 640,
+          "y": 51,
           "width": 973,
           "height": 50,
           "align": "center",
           "alignV": "middle",
           "font": {
-            "size": 48,
+            "size": 39,
             "name": "paytable_font"
           },
           "checkFontSize": true,
-          "name": "t_pt1_01",
+          "name": "t_pt4_01",
           "text": "FREE SPINS",
           "type": "textBitmap",
           "oneLine": true,
@@ -1422,14 +1422,14 @@
           "debug": 0
         },
         {
-          "x": 216,
-          "y": 79,
-          "width": 846,
+          "x": 221,
+          "y": 88,
+          "width": 900,
           "height": 527,
-          "align": "left",
+          "align": "start",
           "alignV": "top",
-          "fontSize": "32px",
-          "fontName": "heroiccondensed",
+          "fontSize": "26px",
+          "fontName": "Philosopher",
           "letterSpacing": 0,
           "dropShadow": true,
           "dropShadowAngle": 90,
@@ -1440,14 +1440,129 @@
           "checkFontSize": true,
           "oneLine": false,
           "toUpperCase": false,
-          "locConfig": {
-            "jpn": {
-              "fontSize": "24px"
-            }
-          },
-          "locConst": "jackpot_paytable_3",
+          "text":"• 3 or more Mummy symbols trigger 10 Free Spins + special\nEXPANDING SYMBOL.",
           "type": "textFont",
-          "name": "jackpot_paytable_3",
+          "name": "t_pt5_1",
+          "debug": 0
+        },
+        {
+          "x": 221,
+          "y": 142,
+          "width": 900,
+          "height": 527,
+          "align": "start",
+          "alignV": "top",
+          "fontSize": "26px",
+          "fontName": "Philosopher",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "text":"• At the beginning of Free Spins an ordinary symbol is randomly chosen\nto act as a special EXPANDING SYMBOL during the entire Free Spins.",
+          "type": "textFont",
+          "name": "t_pt5_2",
+          "debug": 0
+        },
+        {
+          "x": 221,
+          "y": 196,
+          "width": 900,
+          "height": 527,
+          "align": "start",
+          "alignV": "top",
+          "fontSize": "26px",
+          "fontName": "Philosopher",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "text":"• During Free Spins if enough special EXPANDING SYMBOLS appear in\nview it expands to cover all positions on the reel, paying from anywhere\non the winline and awarding a win on every winline at once.",
+          "type": "textFont",
+          "name": "t_pt5_3",
+          "debug": 0
+        },
+        {
+          "x": 221,
+          "y": 277,
+          "width": 900,
+          "height": 527,
+          "align": "start",
+          "alignV": "top",
+          "fontSize": "26px",
+          "fontName": "Philosopher",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "text":"• Free Spins are played with the same bet level as the game round that\ntriggered the feature.",
+          "type": "textFont",
+          "name": "t_pt5_4",
+          "debug": 0
+        },
+        {
+          "x": 221,
+          "y": 331,
+          "width": 900,
+          "height": 527,
+          "align": "start",
+          "alignV": "top",
+          "fontSize": "26px",
+          "fontName": "Philosopher",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "text":"• 3 or more Scatter symbols re-trigger Free Spins.",
+          "type": "textFont",
+          "name": "t_pt5_5",
+          "debug": 0
+        },
+        {
+          "x": 221,
+          "y": 443,
+          "width": 900,
+          "height": 527,
+          "align": "start",
+          "alignV": "top",
+          "fontSize": "26px",
+          "fontName": "Philosopher",
+          "letterSpacing": 0,
+          "dropShadow": true,
+          "dropShadowAngle": 90,
+          "dropShadowBlur": 4,
+          "dropShadowDistance": 4,
+          "fill": "white",
+          "leading": 0,
+          "checkFontSize": true,
+          "oneLine": false,
+          "toUpperCase": false,
+          "text":"The theoretical return to player for this game is 97%.",
+          "type": "textFont",
+          "name": "t_pt5_6",
           "debug": 0
         }
       ]
