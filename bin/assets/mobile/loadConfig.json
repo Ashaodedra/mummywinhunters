@@ -56,7 +56,7 @@
     {"loader":"loadJson", "name":"GDMenu", "file":"assets/"},
     {"loader":"loadJson", "name":"GDCalc", "file":"assets/"},
     {"loader":"loadJson", "name":"GDHistoryBlock", "file":"assets/"},
-    {"loader":"loadJson", "active":0, "name":"GDIntro", "file":"assets/"}
+    {"loader":"loadJson", "name":"GDIntro", "file":"assets/"}
   ],
   "particle":[
     {"name":"New Bundle", "file":""}

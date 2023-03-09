@@ -1,0 +1,76 @@
+
+logo_intro.png
+size: 1712,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_shine
+  rotate: true
+  xy: 2, 2
+  size: 300, 297
+  orig: 300, 300
+  offset: 0, 1
+  index: -1
+common_shine_line
+  rotate: false
+  xy: 671, 44
+  size: 343, 47
+  orig: 400, 78
+  offset: 30, 15
+  index: -1
+logo_game_m1
+  rotate: true
+  xy: 301, 89
+  size: 213, 199
+  orig: 240, 220
+  offset: 9, 10
+  index: -1
+logo_game_m2
+  rotate: true
+  xy: 502, 93
+  size: 209, 199
+  orig: 220, 220
+  offset: 5, 10
+  index: -1
+logo_game_m3
+  rotate: true
+  xy: 703, 96
+  size: 206, 201
+  orig: 220, 220
+  offset: 8, 10
+  index: -1
+logo_game_the
+  rotate: false
+  xy: 301, 22
+  size: 368, 65
+  orig: 380, 100
+  offset: 7, 17
+  index: -1
+logo_game_u
+  rotate: true
+  xy: 1512, 29
+  size: 148, 198
+  orig: 160, 220
+  offset: 7, 10
+  index: -1
+logo_game_win
+  rotate: false
+  xy: 1070, 179
+  size: 633, 123
+  orig: 640, 140
+  offset: 4, 6
+  index: -1
+logo_game_wing
+  rotate: false
+  xy: 1070, 17
+  size: 440, 160
+  orig: 440, 160
+  offset: 0, 0
+  index: -1
+logo_game_y
+  rotate: false
+  xy: 906, 103
+  size: 162, 199
+  orig: 180, 220
+  offset: 10, 11
+  index: -1

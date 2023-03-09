@@ -78,7 +78,7 @@
   "coinSystem": false,
   "checkBetOnPaytable": false,
   "gameHaveJackpot": true,
-  "gameHaveIntro": false,
+  "gameHaveIntro": true,
   "gameHaveRespin": false,
   "gameHaveFree": false,
   "delayStartMain": 0.5,

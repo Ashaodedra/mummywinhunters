@@ -5,6 +5,8 @@ import {PaytableWindow} from "./guiStates/PaytableWindow";
 import {GuiDesktop} from "./guiStates/gui/GuiDesktop";
 import {GuiMobile} from "./guiStates/gui/GuiMobile";
 import {SlotStateBase} from "../casino/SlotStateBase";
+// import {IntroWindow} from "./guiStates/IntroWindow";
+import {IntroWindow} from "./guiStates/IntroWindow";
 import {HistoryWindow} from "./guiStates/HistoryWindow";
 import {LocalisationWindow} from "../casino/gui/windows/LocalisationWindow";
 import {BetWindow} from "./guiStates/BetWindow";
@@ -30,7 +32,7 @@ export class SlotState extends SlotStateBase {
         // if (!AppG.playingForFun)
         OMY.Omy.viewManager.regWO(new WarningReality(), AppConst.W_REALITY);
 
-        // OMY.Omy.viewManager.regWO(new IntroWindow(), AppConst.W_INTRO);
+        OMY.Omy.viewManager.regWO(new IntroWindow(), AppConst.W_INTRO);
 
         // OMY.Omy.viewManager.regWO(new BonusChoiceWindow(), AppConst.W_BONUS);
         // if (AppG.gameHaveFree) {

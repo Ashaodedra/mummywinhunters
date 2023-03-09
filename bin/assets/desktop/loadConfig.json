@@ -42,6 +42,9 @@
     {"loader":"loadSpine", "active":true, "name":"frame_particle", "file":"assets/main/Animations/Spine/"},
     {"loader":"loadSpine", "name":"logo", "file":"assets/main/Animations/Spine/"},
 
+    {"loader":"loadSpine", "name":"logo_intro", "file":"assets/main/Animations/Spine/"},
+
+
     {"loader":"loadAudioSprite", "name":"sounds", "file":"assets/Sounds/AudioSprite/sounds"},
 
     {
@@ -67,7 +70,7 @@
     {"loader":"loadJson", "name":"GDReels", "file":"assets/"},
     {"loader":"loadJson", "name":"GDSlotSymbol", "file":"assets/"},
     {"loader":"loadJson", "name":"GDWinEffect", "file":"assets/"},
-    {"loader":"loadJson", "active":0, "name":"GDIntro", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDIntro", "file":"assets/"},
     {"loader":"loadJson", "name":"GDHistory", "file":"assets/"},
     {"loader":"loadJson", "name":"GDHistoryBlock", "file":"assets/"},
     {"loader":"loadJson", "name":"GDLocalisation", "file":"assets/"}

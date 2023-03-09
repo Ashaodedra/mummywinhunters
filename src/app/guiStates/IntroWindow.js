@@ -9,10 +9,10 @@ export class IntroWindow extends WindowsBase {
 
         this._wName = AppConst.W_INTRO;
         this.json = this._gdConf = OMY.Omy.assets.getJSON("GDIntro");
-
+        // console.log(this._gdConf);
         this._isGraphic = false;
         this._isOpen = false;
-        this.setXY(this._gdConf["x"], this._gdConf["y"]);
+        this.setXY(this._gdConf["x"],this._gdConf["y"]);
 
         if (this._gdConf["debug"] || this._gdConf["visible"]) {
             if (this._gdConf["debug"])
