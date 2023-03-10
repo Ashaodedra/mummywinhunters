@@ -1,0 +1,20 @@
+
+symbol_3.png
+size: 232,121
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+symbol_k
+  rotate: true
+  xy: 2, 2
+  size: 117, 127
+  orig: 130, 130
+  offset: 8, 2
+  index: -1
+symbol_k_glass
+  rotate: false
+  xy: 131, 12
+  size: 99, 107
+  orig: 130, 130
+  offset: 20, 15
+  index: -1

@@ -144,11 +144,15 @@
   },
   "timeForLongReel": 3.3,
   "wildSymbol": {
-    "A": [
+    "p": [
+      "1",
+      "J",
+      "Q",
+      "K",
+      "A",
       "C",
       "S",
-      "M",
-      "P"
+      "M"
     ]
   },
   "checkScatterByLine": [],

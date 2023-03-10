@@ -1,0 +1,111 @@
+
+symbol_6.png
+size: 317,1057
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_bonus
+  rotate: true
+  xy: 2, 728
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+bg_bonus_text
+  rotate: false
+  xy: 179, 199
+  size: 136, 164
+  orig: 162, 180
+  offset: 13, 8
+  index: -1
+common_frame
+  rotate: true
+  xy: 2, 892
+  size: 163, 182
+  orig: 163, 182
+  offset: 0, 0
+  index: -1
+common_frame_0
+  rotate: false
+  xy: 184, 642
+  size: 131, 119
+  orig: 195, 218
+  offset: 16, 81
+  index: -1
+common_frame_1
+  rotate: true
+  xy: 184, 365
+  size: 137, 109
+  orig: 195, 218
+  offset: 42, 91
+  index: -1
+common_frame_2
+  rotate: true
+  xy: 2, 40
+  size: 97, 145
+  orig: 195, 218
+  offset: 82, 55
+  index: -1
+common_frame_3
+  rotate: true
+  xy: 2, 139
+  size: 98, 148
+  orig: 195, 218
+  offset: 81, 18
+  index: -1
+common_frame_4
+  rotate: true
+  xy: 186, 763
+  size: 136, 115
+  orig: 195, 218
+  offset: 43, 18
+  index: -1
+common_frame_5
+  rotate: true
+  xy: 184, 504
+  size: 136, 114
+  orig: 195, 218
+  offset: 16, 18
+  index: -1
+common_frame_6
+  rotate: true
+  xy: 152, 93
+  size: 104, 136
+  orig: 195, 218
+  offset: 16, 18
+  index: -1
+common_frame_7
+  rotate: true
+  xy: 149, 2
+  size: 89, 155
+  orig: 195, 218
+  offset: 16, 45
+  index: -1
+symbol_anubis
+  rotate: true
+  xy: 2, 239
+  size: 159, 175
+  orig: 162, 182
+  offset: 3, 0
+  index: -1
+symbol_anubis_bg
+  rotate: true
+  xy: 2, 564
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+symbol_anubis_bg2
+  rotate: true
+  xy: 2, 400
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+symbol_anubis_gold
+  rotate: true
+  xy: 186, 901
+  size: 154, 122
+  orig: 162, 182
+  offset: 8, 39
+  index: -1

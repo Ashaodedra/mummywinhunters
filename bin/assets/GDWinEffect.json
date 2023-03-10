@@ -28,44 +28,54 @@
   "scale_time":0.3,
   "scale_rep_delay":0.15,
 
-  "G":{
+  "1":{
     "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_0", "custom_a_name":"symb_0_win", "name":"a_symb_effect_0",
+    "textures":"symbol_0", "custom_a_name":"symbol_0_win", "name":"a_symbol_effect_0",
     "type":"actorSpine", "debug":0
   },
-  "F":{
+  "J":{
     "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_1", "custom_a_name":"symb_1_win", "name":"a_symb_effect_1",
+    "textures":"symbol_1", "custom_a_name":"symbol_1_win", "name":"a_symbol_effect_1",
     "type":"actorSpine", "debug":0
   },
-  "E":{
+  "Q":{
     "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_2", "custom_a_name":"symb_2_win", "name":"a_symb_effect_2",
+    "textures":"symbol_2", "custom_a_name":"symbol_2_win", "name":"a_symbol_effect_2",
     "type":"actorSpine", "debug":0
   },
-  "D":{
+  "K":{
     "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_3", "custom_a_name":"symb_3_win", "name":"a_symb_effect_3",
-    "type":"actorSpine", "debug":0
-  },
-  "C":{
-    "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_4", "custom_a_name":"symb_4_win", "name":"a_symb_effect_4",
-    "type":"actorSpine", "debug":0
-  },
-  "B":{
-    "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_5", "custom_a_name":"symb_5_win", "name":"a_symb_effect_5",
+    "textures":"symbol_3", "custom_a_name":"symbol_3_win", "name":"a_symbol_effect_3",
     "type":"actorSpine", "debug":0
   },
   "A":{
     "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_6", "custom_a_name":"symb_6_win", "name":"a_symb_effect_6",
+    "textures":"symbol_4", "custom_a_name":"symbol_4_win", "name":"a_symbol_effect_4",
     "type":"actorSpine", "debug":0
   },
-  "@":{
+  "C":{
     "x":0, "y":0, "dx":0, "dy":0, "speed":1,
-    "textures":"symb_7", "custom_a_name":"symb_7_win", "name":"a_symb_effect_7",
+    "textures":"symbol_5", "custom_a_name":"symbol_5_win", "name":"a_symbol_effect_5",
+    "type":"actorSpine", "debug":0
+  },
+  "S":{
+    "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+    "textures":"symbol_6", "custom_a_name":"symbol_6_win", "name":"a_symbol_effect_6",
+    "type":"actorSpine", "debug":0
+  },
+  "M":{
+    "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+    "textures":"symbol_7", "custom_a_name":"symbol_7_win", "name":"a_symbol_effect_7",
+    "type":"actorSpine", "debug":0
+  },
+  "P":{
+    "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+    "textures":"symbol_8", "custom_a_name":"symbol_8_win", "name":"a_symbol_effect_8",
+    "type":"actorSpine", "debug":0
+  },
+  "B":{
+    "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+    "textures":"symbol_9", "custom_a_name":"symbol_9_win", "name":"a_symbol_effect_9",
     "type":"actorSpine", "debug":0
   },
 

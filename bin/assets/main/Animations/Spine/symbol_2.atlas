@@ -1,0 +1,20 @@
+
+symbol_2.png
+size: 236,120
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+symbol_q
+  rotate: true
+  xy: 2, 2
+  size: 116, 133
+  orig: 119, 140
+  offset: 1, 1
+  index: -1
+symbol_q_glass
+  rotate: false
+  xy: 137, 2
+  size: 97, 116
+  orig: 119, 140
+  offset: 14, 13
+  index: -1

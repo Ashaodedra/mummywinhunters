@@ -97,22 +97,7 @@
       "debug": 0,
       "name": "reels",
       "entities": [
-        {
-          "x": 393,
-          "y": 360,
-          "dx": 0,
-          "dy": 0,
-          "speed": 1,
-          "scale": 1,
-          "play": true,
-          "playLoop": true,
-          "textures": "frame_particle",
-          "custom_a_name": "particle_animation",
-          "name": "a_frame",
-          "type": "actorSpine",
-          "debug": 0,
-          "active": 1
-        },
+      
         {
           "x": 0,
           "y": 0,
@@ -158,9 +143,9 @@
           }
         },
         {
-          "x": -78,
+          "x": -76,
           "y": 3,
-          "scaleX": 1.003,
+          "scaleX": 1,
           "scaleY": 1,
           "type": "sprite",
           "texture": "reel_grid",
@@ -168,15 +153,15 @@
           "debug": 0
         },
         {
-          "x": -57,
-          "y": -73,
+          "x": -56,
+          "y": -72,
           "debug": 0,
           "name": "reel_canvas",
           "type": "container"
         },
         {
-          "x": -77,
-          "y": 2,
+          "x": -76,
+          "y": 3,
           "texture": "main_frame",
           "name": "main_frame",
           "type": "sprite",

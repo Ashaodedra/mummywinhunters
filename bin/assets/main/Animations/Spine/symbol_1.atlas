@@ -1,0 +1,20 @@
+
+symbol_1.png
+size: 167,134
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+symbol_j
+  rotate: false
+  xy: 2, 2
+  size: 89, 130
+  orig: 90, 140
+  offset: 1, 5
+  index: -1
+symbol_j_glass
+  rotate: false
+  xy: 93, 16
+  size: 72, 116
+  orig: 90, 140
+  offset: 13, 15
+  index: -1

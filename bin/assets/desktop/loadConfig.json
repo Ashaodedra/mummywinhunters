@@ -37,12 +37,14 @@
 
     {"loader":"loadAnimationAtlas", "active":false, "url":"assets/main/Animations/", "pref":"effects-", "suf":"", "round":[0, 2]},
 
-    {"loader":"loadSpine", "url":"assets/main/Animations/Spine/", "pref":"symb_", "suf":"", "round":[0, 7]},
+    {"loader":"loadSpine", "url":"assets/main/Animations/Spine/", "pref":"symbol_", "suf":"", "round":[0, 9]},
     {"loader":"loadSpine", "name":"fireworks", "file":"assets/main/Animations/Spine/"},
     {"loader":"loadSpine", "active":true, "name":"frame_particle", "file":"assets/main/Animations/Spine/"},
     {"loader":"loadSpine", "name":"logo", "file":"assets/main/Animations/Spine/"},
 
     {"loader":"loadSpine", "name":"logo_intro", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"winlines", "file":"assets/main/Animations/Spine/"},
+
 
 
     {"loader":"loadAudioSprite", "name":"sounds", "file":"assets/Sounds/AudioSprite/sounds"},

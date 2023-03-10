@@ -1,0 +1,20 @@
+
+symbol_0.png
+size: 247,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+symbol_10
+  rotate: false
+  xy: 2, 9
+  size: 140, 117
+  orig: 150, 130
+  offset: 2, 5
+  index: -1
+symbol_10_glass
+  rotate: true
+  xy: 144, 2
+  size: 124, 101
+  orig: 150, 130
+  offset: 13, 15
+  index: -1

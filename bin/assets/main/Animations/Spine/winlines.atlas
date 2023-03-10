@@ -1,0 +1,69 @@
+
+winlines.png
+size: 1759,1759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_shine_line
+  rotate: false
+  xy: 878, 1711
+  size: 346, 47
+  orig: 400, 78
+  offset: 30, 15
+  index: -1
+winlines_10
+  rotate: false
+  xy: 1, 737
+  size: 878, 385
+  orig: 900, 410
+  offset: 8, 10
+  index: -1
+winlines_1_3
+  rotate: false
+  xy: 1, 1740
+  size: 876, 18
+  orig: 900, 50
+  offset: 9, 11
+  index: -1
+winlines_4
+  rotate: false
+  xy: 1, 1123
+  size: 878, 384
+  orig: 890, 440
+  offset: 2, 26
+  index: -1
+winlines_5
+  rotate: false
+  xy: 880, 1122
+  size: 878, 385
+  orig: 890, 440
+  offset: 2, 24
+  index: -1
+winlines_6
+  rotate: false
+  xy: 1, 1508
+  size: 878, 202
+  orig: 900, 228
+  offset: 8, 9
+  index: -1
+winlines_7
+  rotate: false
+  xy: 880, 1508
+  size: 878, 202
+  orig: 900, 228
+  offset: 8, 12
+  index: -1
+winlines_8
+  rotate: false
+  xy: 880, 735
+  size: 878, 386
+  orig: 900, 430
+  offset: 7, 19
+  index: -1
+winlines_9
+  rotate: false
+  xy: 1, 350
+  size: 878, 386
+  orig: 900, 402
+  offset: 7, 5
+  index: -1
