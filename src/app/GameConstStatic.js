@@ -11,7 +11,7 @@ export const GameConstStatic = {
     MOB_HEIGHT_V: 960,
 
     S_btn_any: "btn_any",
-    S_button_menu: "btn_any",
+    S_button_menu: "button_menu",
     S_btn_bet_minus: "btn_any",
     S_btn_bet_plus: "btn_any",
     S_take_take: "take-take",
@@ -37,12 +37,12 @@ export const GameConstStatic = {
     },
 
     S_game_bg: "",
-    S_bg: "main",
+    S_bg: "music_bg",
     S_bg_fg: "",
     S_fg_end: "",
     S_fg_start: "",
     S_fg_in_free: "",
-    S_intro: "",
+    S_intro: "intro",
 
     S_bg_bonus: "",
     S_bonus_end: "",

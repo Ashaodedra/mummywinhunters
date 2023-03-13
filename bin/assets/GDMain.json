@@ -8,14 +8,14 @@
     "x": -37,
     "y": 99,
     "width": 1000,
-    "height": 560,
+    "height": 565,
     "debug": 0
   },
   "m_reelMask": {
     "x": -37,
     "y": 99,
-    "width": 890,
-    "height": 503,
+    "width": 950,
+    "height": 565,
     "debug": 0
   },
   "entities": [
@@ -34,6 +34,7 @@
       "v_i_height": 1080,
       "interactiveChildren": false,
       "centered": false,
+      "deepPosition":true,
       "type": "container",
       "name": "c_game_bg",
       "debug": 0,
@@ -86,13 +87,14 @@
       "debug": 0
     },
     {
-      "x": 251,
+      "x": 245,
       "y": 0,
-      "v_x": 0,
-      "v_y": 204,
+      "v_x": 40,
+      "v_y": 220,
       "v_sdy": 0,
-      "v_scale": 0.67,
+      "v_scale": 0.58,
       "interactiveChildren": false,
+      "deepPosition":true,
       "type": "container",
       "debug": 0,
       "name": "reels",
@@ -106,6 +108,7 @@
           "cacheAsBitmap": false,
           "type": "container",
           "name": "c_particles",
+          "deepPosition":true,
           "debug": 0,
           "active": 0,
           "entities": [
@@ -143,7 +146,7 @@
           }
         },
         {
-          "x": -76,
+          "x": -70,
           "y": 3,
           "scaleX": 1,
           "scaleY": 1,
@@ -153,15 +156,15 @@
           "debug": 0
         },
         {
-          "x": -56,
+          "x": -50,
           "y": -72,
           "debug": 0,
           "name": "reel_canvas",
           "type": "container"
         },
         {
-          "x": -76,
-          "y": 3,
+          "x": -70,
+          "y": 3,          
           "texture": "main_frame",
           "name": "main_frame",
           "type": "sprite",
@@ -253,7 +256,7 @@
       "m_sdx": -0.25,
       "m_sdy": 0,
       "v_x": 9,
-      "v_y": 22,
+      "v_y": 16,
       "v_sdy": -0.5,
       "v_scale": 0.53,
       "debug": 0,
@@ -305,6 +308,75 @@
       "interactiveChildren": false,
       "name": "c_win_effect",
       "type": "container"
+    },
+    {
+      "x":-7,
+      "y":245, 
+      "type":"sprite", 
+      "texture":"winline_1", 
+      "name":"s_winline_1", 
+      "debug":0, 
+      "active":0
+    },
+    {
+      "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_01", "name":"s_winline_1",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_02", "name":"s_winline_2",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":2, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_03", "name":"s_winline_3",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":-3, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_04", "name":"s_winline_4",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":4, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_05", "name":"s_winline_5",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":2, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_06", "name":"s_winline_6",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":2, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_07", "name":"s_winline_7",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_08", "name":"s_winline_8",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_09", "name":"s_winline_9",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":0, "dx":0, "dy":0, "speed":1,
+      "play":false, "playLoop":false,
+      "textures":"winlines", "custom_a_name":"winlines_10", "name":"s_winline_10",
+      "type":"actorSpine", "debug":0
     },
     {
       "x": 0,
@@ -400,17 +472,17 @@
             },
             {
               "x": 0,
-              "y": -5,
+              "y": 9,
               "width": 300,
               "height": 54,
               "align": "center",
               "alignV": "middle",
               "font": {
                 "size": 55,
-                "name": "win_font"
+                "name": "winline_numbers_font"
               },
               "1fill": "0x000001",
-              "letterSpacing": 1,
+              "letterSpacing": 0,
               "checkFontSize": true,
               "oneLine": true,
               "toUpperCase": false,

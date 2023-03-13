@@ -44,8 +44,7 @@
 
     {"loader":"loadSpine", "name":"logo_intro", "file":"assets/main/Animations/Spine/"},
     {"loader":"loadSpine", "name":"winlines", "file":"assets/main/Animations/Spine/"},
-
-
+    
 
     {"loader":"loadAudioSprite", "name":"sounds", "file":"assets/Sounds/AudioSprite/sounds"},
 
@@ -63,6 +62,7 @@
     }
     },
     {"loader":"loadBitmapFont", "name":"win_font", "file":"assets/font/"},
+    {"loader":"loadBitmapFont", "name":"winline_numbers_font", "file":"assets/font/"},
     {"loader":"loadBitmapFont", "name":"big_win_font", "file":"assets/font/"},
 
     {"loader":"loadJson", "deviceFolder":true, "name":"GDGui", "file":""},

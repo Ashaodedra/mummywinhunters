@@ -583,77 +583,56 @@
               },
               "entities":[
                 {
-                  "x":44, "y":0,
-                  "v_fontSize":"25",
-                  "width":318, "height":50, "align":"left", "alignV":"middle",
-                  "fontSize":"37px", "fontName":"Akrobat", "fill":"0xFFC000", "letterSpacing":0,
-                  "leading":0, "checkFontSize":true, "oneLine":true, "toUpperCase":false,
-                  "locCheck":true,
-                  "locConst":"paytable_p1_t01", "type":"textFont", "name":"paytable_p1_t01", "debug":0
-                },
-                {
-                  "x":604, "y":0,
-                  "v_x":43, "v_y":235, "v_fontSize":"25",
-                  "width":334, "height":50, "align":"left", "alignV":"middle",
-                  "fontSize":"37px", "fontName":"Akrobat", "fill":"0xFFC000", "letterSpacing":0,
-                  "leading":0, "checkFontSize":true, "oneLine":true, "toUpperCase":false,
-                  "locCheck":true,
-                  "locConst":"paytable_p1_t03", "type":"textFont", "name":"paytable_p1_t03", "debug":0
-                },
-
-                {
-                  "x":0, "y":18, "type":"sprite", "texture":"pt_1", "name":"s_pt_1", "debug":0
-                },
-                {
                   "x":604, "y":22,
-                  "v_x":26, "v_y":262,
-                  "type":"sprite", "texture":"pt_2", "name":"s_pt_2", "debug":0
-                },
-
-                {
-                  "x":174, "y":27, "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier1", "debug":0
+                  "v_x":53, "v_y":47,
+                  "type":"sprite", "texture":"pt_1_scatters", "name":"s_pt_2", "debug":0
                 },
                 {
-                  "x":752, "y":27,
-                  "v_x":173, "v_y":266,
-                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier2", "debug":0
+                  "x": 205,
+                  "y": 156,
+                  "v_x":228,
+                  "v_y":196,
+                  "v_fontSize":"20",
+                  "width": 450,
+                  "height": 527,
+                  "align": "center",
+                  "alignV": "top",
+                  "fontSize":"40pt",
+                  "fontName": "BebasFont",
+                  "letterSpacing": 0,
+                  "fill": "0xFFFFFF",
+                  "leading": 0,
+                  "checkFontSize": true,
+                  "oneLine": false,
+                  "toUpperCase": false,
+                  "text":"3 or more Mummy symbols trigger 10 Free Spins +\n special EXPANDING SYMBOL.",
+                  "type": "textFont",
+                  "name": "t_pt1_1",
+                  "debug": 0
                 },
-
                 {
-                  "x":177, "y":135,
-                  "v_width":251, "v_height":76,
-                  "width":284, "height":100, "align":"left", "alignV":"top",
-                  "letterSpacing":0, "locCheck":true,
-                  "default":{
-                    "fontFamily":"heroiccondensed",
-                    "fontSize":"25px",
-                    "fill":"0xffffff"
+                  "x": 229,
+                  "y": 16,
+                  "width": 973,
+                  "height": 50,
+                  "align": "center",
+                  "alignV": "middle",
+                  "font": {
+                    "size": 30,
+                    "name": "paytable_font"
                   },
-                  "w":{
-                    "fill":"0xFFC000"
-                  },
-                  "checkFontSize":true, "oneLine":false, "toUpperCase":false,
-                  "locConfig": {"jpn": {"fontSize":"17px", "v_fontSize":"15px"}},
-                  "locConst":"menu_p1_t02", "type":"textMultiStyleFont", "name":"paytable_p1_t02", "debug":0
-                },
-                {
-                  "x":752, "y":135,
-                  "v_x":174, "v_y":375, "v_width":251, "v_height":76,
-                  "width":267, "height":100, "align":"left", "alignV":"top",
-                  "letterSpacing":0, "locCheck":true,
-                  "default":{
-                    "fontFamily":"heroiccondensed",
-                    "fontSize":"25px",
-                    "fill":"0xffffff",
-                    "leading":100
-                  },
-                  "w":{
-                    "fill":"0xFFC000"
-                  },
-                  "checkFontSize":true, "oneLine":false, "toUpperCase":false,
-                  "locConfig": {"jpn": {"fontSize":"17px", "v_fontSize":"15px"}},
-                  "locConst":"menu_p1_t04", "type":"textMultiStyleFont", "name":"paytable_p1_t04", "debug":0
+                  "checkFontSize": true,
+                  "name": "t_pt1_m",
+                  "text": "FREE SPINS",
+                  "type": "textBitmap",
+                  "oneLine": true,
+                  "debug": 0
                 }
+               
+                
+
+               
+                
               ]
             },
             {

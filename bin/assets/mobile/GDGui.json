@@ -645,7 +645,7 @@
     },
 
     {
-      "x":13, "y":20, "m_sdx":0.1, "m_sdy":0,
+      "x":9, "y":55, "m_sdx":0.1, "m_sdy":0,
       "width":157, "height":40, "align":"left", "alignV":"middle", "1fontWeight":500,
       "fontSize":"13px", "fontName":"BebasFont", "padding":10, "fill":"0xffffff", "letterSpacing":1,
       "checkFontSize":true, "oneLine":true, "toUpperCase":false, "1stroke":"#1C1918", "1strokeThickness":1,
