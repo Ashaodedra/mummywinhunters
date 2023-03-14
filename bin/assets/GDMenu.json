@@ -566,38 +566,51 @@
               "type":"container", "name":"c_symbol_big", "debug":0,
               "format":true, "pos_dy":20,
               "t_copy_1":{
-                "x":0, "y":0, "width":157, "height":50, "align":"right", "alignV":"middle",
-                "fontSize":"28px", "fontName":"Akrobat", "fill":"0xfff", "letterSpacing":0,
-                "leading":0, "checkFontSize":true, "oneLine":true, "toUpperCase":false,
-                "locCheck":false,
-                "text":"", "type":"textNumberFont", "name":"t_", "debug":0
+                "x": 0,
+                "y": 0,
+                "width": 157,
+                "height": 50,
+                "align": "right",
+                "alignV": "middle",
+                "font": {
+                  "size": 52,
+                  "name": "paytable_font"
+                },
+               
+                "letterSpacing": 0,
+                "leading": 0,
+                "checkFontSize": true,
+                "oneLine": true,
+                "toUpperCase": false,
+                "locCheck": false,
+                "text": "",
+                "type": "textNumberBitmap",
+                "name": "t_",
+                "debug": 0
               },
               "texts_1":{
-                "A_5":{"x":367, "y":36, "debug":0},
-                "A_4":{"x":367, "y":72, "debug":0},
-                "A_3":{"x":367, "y":108, "debug":0},
-
-                "@_5":{"x":944, "y":36, "v_x":367, "v_y":276, "debug":0},
-                "@_4":{"x":944, "y":72, "v_x":367, "v_y":312, "debug":0},
-                "@_3":{"x":944, "y":108, "v_x":367, "v_y":348, "debug":0}
+                "B_5":{"x":682, "y":392, "v_x":436, "v_y":394,"debug":0},
+                "B_4":{"x":648, "y":439, "v_x":405, "v_y":440,"debug":0},
+                "B_3":{"x":616, "y":486,"v_x":373, "v_y":485, "debug":0}
               },
               "entities":[
                 {
-                  "x":604, "y":22,
+                  "x":307, "y":63,
                   "v_x":53, "v_y":47,
                   "type":"sprite", "texture":"pt_1_scatters", "name":"s_pt_2", "debug":0
                 },
                 {
-                  "x": 205,
-                  "y": 156,
+                  "x": 482,
+                  "y": 213,
                   "v_x":228,
                   "v_y":196,
                   "v_fontSize":"20",
-                  "width": 450,
+                  "width": 1200,
+                  "v_width":450,
                   "height": 527,
                   "align": "center",
                   "alignV": "top",
-                  "fontSize":"40pt",
+                  "fontSize":"31",
                   "fontName": "BebasFont",
                   "letterSpacing": 0,
                   "fill": "0xFFFFFF",
@@ -605,22 +618,33 @@
                   "checkFontSize": true,
                   "oneLine": false,
                   "toUpperCase": false,
-                  "text":"3 or more Mummy symbols trigger 10 Free Spins +\n special EXPANDING SYMBOL.",
+                  "text":"3 or more Mummy symbols trigger 10 Free Spins + special EXPANDING SYMBOL.",
                   "type": "textFont",
                   "name": "t_pt1_1",
                   "debug": 0
                 },
                 {
-                  "x": 229,
-                  "y": 16,
+                  "x": 376,
+                  "y": 306,
+                  "v_x":122, 
+                  "v_y":309,
+                  "type": "sprite",
+                  "texture": "pt_1_scatter_us-US",
+                  "name": "pt_1_scatter_us-US",
+                  "debug": 0
+                },
+                {
+                  "x": 483,
+                  "y": 26,
+                  "v_x":229, 
+                  "v_y":16,
                   "width": 973,
                   "height": 50,
                   "align": "center",
                   "alignV": "middle",
-                  "font": {
-                    "size": 30,
-                    "name": "paytable_font"
-                  },
+                  "v_fontSize":"30",
+                  "fontName":"paytable_font",
+                  "fontSize":"48", 
                   "checkFontSize": true,
                   "name": "t_pt1_m",
                   "text": "FREE SPINS",
@@ -628,11 +652,7 @@
                   "oneLine": true,
                   "debug": 0
                 }
-               
-                
 
-               
-                
               ]
             },
             {
@@ -642,68 +662,221 @@
               "type":"container", "name":"c_symbol_small", "debug":0,
               "format":true, "pos_dy":0,
               "t_copy_1":{
-                "x":0, "y":0, "width":157, "height":50, "align":"right", "alignV":"middle",
-                "fontSize":"28px", "fontName":"Akrobat", "fill":"0xfff", "letterSpacing":0,
-                "leading":0, "checkFontSize":true, "oneLine":true, "toUpperCase":false,
-                "locCheck":false,
-                "text":"", "type":"textNumberFont", "name":"t_", "debug":0
+               "x": 0,
+                "y": 0,
+                "width": 157,
+                "height": 50,
+                "align": "right",
+                "alignV": "middle",
+                "v_fontSize":"26", 
+                "fontName":"paytable_font",
+                "fontSize":"32", 
+               
+                "letterSpacing": 0,
+                "leading": 0,
+                "checkFontSize": true,
+                "oneLine": true,
+                "toUpperCase": false,
+                "locCheck": false,
+                "text": "",
+                "type": "textNumberBitmap",
+                "name": "t_",
+                "debug": 0
               },
               "texts_1":{
-                "B_5":{"x":139, "y":165, "v_x":139, "v_y":165, "debug":0},
-                "B_4":{"x":139, "y":201, "v_x":139, "v_y":201, "debug":0},
-                "B_3":{"x":139, "y":237, "v_x":139, "v_y":237, "debug":0},
-                "C_5":{"x":407, "y":165, "v_x":367, "v_y":165, "debug":0},
-                "C_4":{"x":407, "y":201, "v_x":367, "v_y":201, "debug":0},
-                "C_3":{"x":407, "y":237, "v_x":367, "v_y":237, "debug":0},
+                "P_5":{"x":171, "y":319, "v_x":146, "v_y":363, "debug":0},
+                "P_4":{"x":171, "y":357, "v_x":146, "v_y":392, "debug":0},
+                "P_3":{"x":171, "y":393, "v_x":146, "v_y":421, "debug":0},
+                "P_2":{"x":171, "y":430, "v_x":146, "v_y":450, "debug":0},
+                
+                "M_5":{"x":432, "y":319, "v_x":378, "v_y":363, "debug":0},
+                "M_4":{"x":432, "y":357, "v_x":378, "v_y":392, "debug":0},
+                "M_3":{"x":432, "y":393, "v_x":378, "v_y":421, "debug":0},
+                "M_2":{"x":432, "y":430, "v_x":378, "v_y":450, "debug":0},
 
-                "D_5":{"x":671, "y":165, "v_x":139, "v_y":437, "debug":0},
-                "D_4":{"x":671, "y":201, "v_x":139, "v_y":473, "debug":0},
-                "D_3":{"x":671, "y":237, "v_x":139, "v_y":509, "debug":0},
-                "E_5":{"x":942, "y":165, "v_x":367, "v_y":437, "debug":0},
-                "E_4":{"x":942, "y":201, "v_x":367, "v_y":473, "debug":0},
-                "E_3":{"x":942, "y":237, "v_x":367, "v_y":509, "debug":0}
+                "S_5":{"x":695, "y":319, "v_x":146, "v_y":633, "debug":0},
+                "S_4":{"x":695, "y":357, "v_x":146, "v_y":660, "debug":0},
+                "S_3":{"x":695, "y":393, "v_x":146, "v_y":689, "debug":0},
+                "S_2":{"x":695, "y":430, "v_x":146, "v_y":715, "debug":0},
+
+                "C_5":{"x":942, "y":319, "v_x":378, "v_y":633, "debug":0},
+                "C_4":{"x":942, "y":357, "v_x":378, "v_y":660, "debug":0},
+                "C_3":{"x":942, "y":393, "v_x":378, "v_y":689, "debug":0},
+                "C_2":{"x":942, "y":430, "v_x":378, "v_y":715, "debug":0},
+
+                "A_5":{"x":112, "y":649, "v_x":146, "v_y":870, "debug":0},
+                "A_4":{"x":112, "y":688, "v_x":146, "v_y":898, "debug":0},
+                "A_3":{"x":112, "y":726, "v_x":146, "v_y":926, "debug":0},
+
+                "K_5":{"x":334, "y":649, "v_x":378, "v_y":870, "debug":0},
+                "K_4":{"x":334, "y":688, "v_x":378, "v_y":898, "debug":0},
+                "K_3":{"x":334, "y":726, "v_x":378, "v_y":926, "debug":0},
+
+                "Q_5":{"x":556, "y":649, "v_x":146, "v_y":1082, "debug":0},
+                "Q_4":{"x":556, "y":688, "v_x":146, "v_y":1110, "debug":0},
+                "Q_3":{"x":556, "y":726, "v_x":146, "v_y":1138, "debug":0},
+
+                "J_5":{"x":777, "y":649, "v_x":378, "v_y":1082, "debug":0},
+                "J_4":{"x":777, "y":688, "v_x":378, "v_y":1110, "debug":0},
+                "J_3":{"x":777, "y":726, "v_x":378, "v_y":1138, "debug":0},
+
+
+                "1_5":{"x":998, "y":649, "v_x":238, "v_y":1271, "debug":0},
+                "1_4":{"x":998, "y":688, "v_x":238, "v_y":1299, "debug":0},
+                "1_3":{"x":998, "y":726, "v_x":238, "v_y":1326, "debug":0}
+               
+                
               },
               "entities":[
                 {
-                  "x":0, "y":0,
-                  "v_x":0, "v_y":0,
-                  "type":"sprite", "texture":"pt_3", "name":"s_pt_3", "debug":0
+                  "x": 462,
+                  "y": 40,
+                  "v_x":187,
+                  "v_y":40,
+                  "v_fontSize":"16",
+                  "width": 1200,
+                  "v_width": 400,
+                  "height": 527,
+                  "align": "center",
+                  "alignV": "top",
+                  "fontSize":"18",
+                  "fontName": "BebasFont",
+                  "letterSpacing": 0,
+                  "fill": "0xFFFFFF",
+                  "leading": 0,
+                  "checkFontSize": true,
+                  "oneLine": false,
+                  "toUpperCase": false,
+                  "text":"The Mummy is WILD symbol, this symbol substitutes all symbols.",
+                  "type": "textFont",
+                  "name": "t_pt1_3",
+                  "debug": 0
                 },
                 {
-                  "x":277, "y":-6,
-                  "v_x":227, "v_y":-6,
-                  "type":"sprite", "texture":"pt_4", "name":"s_pt_4", "debug":0
+                  "x": 462,
+                  "y": 68,
+                  "v_x":187,
+                  "v_y":91,
+                  "v_fontSize":"16",
+                  "width": 1200,
+                  "v_width": 400,
+                  "height": 527,
+                  "align": "center",
+                  "alignV": "top",
+                  "fontSize":"18",
+                  "fontName": "BebasFont",
+                  "letterSpacing": 0,
+                  "fill": "0xFFFFFF",
+                  "leading": 0,
+                  "checkFontSize": true,
+                  "oneLine": false,
+                  "toUpperCase": false,
+                  "text":"The Mummy is also a SCATTER symbol and can be paid anywhere on the reels.",
+                  "type": "textFont",
+                  "name": "t_pt1_4",
+                  "debug": 0
+                },
+                {
+                  "x": 462,
+                  "y": 98,
+                  "v_x":187,
+                  "v_y":144,
+                  "v_fontSize":"16",
+                  "width": 1200,
+                  "v_width": 400,
+                  "height": 527,
+                  "align": "center",
+                  "alignV": "top",
+                  "fontSize":"18",
+                  "fontName": "BebasFont",
+                  "letterSpacing": 0,
+                  "fill": "0xFFFFFF",
+                  "leading": 0,
+                  "checkFontSize": true,
+                  "oneLine": false,
+                  "toUpperCase": false,
+                  "text":"SCATTER wins are multiplied by the total bet staked and are added to the payline wins.",
+                  "type": "textFont",
+                  "name": "t_pt1_5",
+                  "debug": 0
+                },
+                {
+                  "x":298, "y":-142,
+                  "v_x":-8, "v_y":-143,
+                  "type":"sprite", "texture":"pt_1_scatter", "name":"s_pt_01", "debug":0
+                },
+                {
+                  "x":-36, "y":138,
+                  "v_x":0, "v_y":220,
+                  "type":"sprite", "v_texture":"pt_2_1_v", "texture":"pt_2","name":"s_pt_3", "debug":0
+                },
+                {
+                  "x":-76, "y":482,
+                  "v_x":0, "v_y":770,
+                  "type":"sprite", "v_texture":"pt_3_1_v", "texture":"pt_3", "name":"s_pt_4", "debug":0
                 },
                 {
                   "x":529, "y":-4,
-                  "v_x":-7, "v_y":268,
-                  "type":"sprite", "texture":"pt_5", "name":"s_pt_5", "debug":0
+                  "v_x":-7, "v_y":500,
+                  "type":"sprite", "texture":"pt_5", "name":"s_pt_5", "debug":0,"active":0
                 },
                 {
                   "x":739, "y":-8,
-                  "v_x":147, "v_y":264,
-                  "type":"sprite", "texture":"pt_6", "name":"s_pt_6", "debug":0
+                  "v_x":147, "v_y":500,
+                  "type":"sprite", "texture":"pt_6", "name":"s_pt_6", "debug":0,"active":0
                 },
 
                 {
                   "x":-18, "y":156,
-                  "v_x":-18, "v_y":155,
-                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier3", "debug":0
+                  "v_x":-18, "v_y":500,
+                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier3", "debug":0,"active":0
                 },
                 {
                   "x":251, "y":156,
-                  "v_x":211, "v_y":155,
-                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier4", "debug":0
+                  "v_x":211, "v_y":500,
+                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier4", "debug":0,"active":0
                 },
                 {
                   "x":519, "y":156,
-                  "v_x":-17, "v_y":427,
-                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier5", "debug":0
+                  "v_x":-17, "v_y":500,
+                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier5", "debug":0,"active":0
                 },
                 {
                   "x":783, "y":156,
-                  "v_x":211, "v_y":427,
-                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier6", "debug":0
+                  "v_x":211, "v_y":500,
+                  "type":"sprite", "texture":"pt_multiplier", "name":"s_pt_multiplier6", "debug":0,"active":0
+                },
+                {
+                  "x": 100,
+                  "y": 777,
+                  "v_x":-36,
+                  "v_y":1390,
+                  "v_scaleX":0.6,
+                  "v_scaleY":0.6,
+                  "type": "sprite",
+                  "texture": "win_up_bg",
+                  "name": "win_up_bg",
+                  "debug": 0
+                },
+                {
+                  "x": 463,
+                  "y": 795,
+                  "v_x":188,
+                  "v_y":1401,
+                  "width": 973,
+                  "v_width":435,
+                  "height": 50,
+                  "align": "center",
+                  "alignV": "middle",
+                  "v_fontSize":23,
+                  "fontSize":"38",
+                  "fontName":"paytable_font",
+                  "checkFontSize": true,
+                  "name": "t_pt1_02",
+                  "text": "WIN UP TO 5,000x YOUR BET!",
+                  "type": "textBitmap",
+                  "oneLine": true,
+                  "debug": 0
                 }
               ]
             },
@@ -718,19 +891,37 @@
               "format":true, "pos_dy":50
             },
             {
-              "x":73, "y":0,
+              "x":156, "y":0,
               "v_x":328,
               "type":"sprite", "texture":"help_lines", "v_texture":"help_lines_v", "name":"s_help_lines", "debug":0,
               "format":true, "pos_dy":20
             },
             {
-              "x":540, "y":0,
-              "v_x":540, "v_y":0, "v_width":420, "v_fontSize":"16", "v_height":450,
-              "width":1050, "height":400, "align":"center", "alignV":"top",
-              "fontSize":"22pt", "fontName":"heroiccondensed", "padding":0, "fill":"0xFFFFFF", "letterSpacing":0, "leading":0,
-              "checkFontSize":true, "oneLine":false, "toUpperCase":false,
-              "locConst":"menu_p2_t01", "type":"textFont", "name":"t_menu_p2_t01", "debug":0,
-              "format":true, "pos_dy":30
+              "x":540, 
+              "y":0,
+              "v_x":540, 
+              "v_y":0, 
+              "v_width":450, 
+              "v_fontSize":"16", 
+              "v_height":450,
+              "width":1000, 
+              "height":400, 
+              "align":"center", 
+              "alignV":"top",
+              "fontSize":"18", 
+              "fontName":"BebasFont",
+              "fill":"0xFFFFFF", 
+              "letterSpacing":0, 
+              "leading":0,
+              "checkFontSize":true, 
+              "oneLine":false, 
+              "toUpperCase":false,
+              "text":"All wins multiplied by bet staked per line\nexcept for SCATTERS.\nAll wins pay left to right except SCATTER symbols which pay anywhere on the reels.\nOnly the highest winning combination on each\nline is paid.\nMalfunction voids all plays and pays!",
+              "type":"textFont", 
+              "name":"t_menu_p2_t01", 
+              "debug":0,
+              "format":true, 
+              "pos_dy":30
             }
           ]
         },

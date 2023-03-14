@@ -55,7 +55,8 @@
       "texture": "paytable_bg",
       "name": "frame",
       "debug": 0,
-      "alpha": 1
+      "alpha": 1,
+      "active": 0
     },
     {
       "x": 0,
@@ -381,7 +382,8 @@
           "type": "sprite",
           "texture": "pt_title_shadow",
           "name": "s_pt_title_shadow",
-          "debug": 0
+          "debug": 0,
+          "active":0
         },
         {
           "x": 321,
@@ -816,7 +818,9 @@
           "type": "sprite",
           "texture": "pt_title_shadow",
           "name": "s_pt_title_shadow",
-          "debug": 0
+          "debug": 0,
+          "active":0
+         
         },
         {
           "x": 223,
@@ -986,7 +990,8 @@
           "type": "sprite",
           "texture": "pt_title_shadow",
           "name": "s_pt_title_shadow",
-          "debug": 0
+          "debug": 0,
+          "active":0
         },
        
         {
@@ -1060,7 +1065,8 @@
           "type": "sprite",
           "texture": "pt_title_shadow",
           "name": "s_pt_title_shadow",
-          "debug": 0
+          "debug": 0,
+          "active":0
         },
         {
           "x": 640,
@@ -1401,7 +1407,8 @@
           "type": "sprite",
           "texture": "pt_title_shadow",
           "name": "s_pt_title_shadow",
-          "debug": 0
+          "debug": 0,
+          "active":0
         },
         {
           "x": 645,
@@ -1579,7 +1586,8 @@
           "type": "sprite",
           "texture": "pt_title_shadow",
           "name": "s_pt_title_shadow",
-          "debug": 0
+          "debug": 0,
+          "active":0
         },
         {
           "x": 640,
