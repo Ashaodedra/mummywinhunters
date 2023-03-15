@@ -39,6 +39,7 @@
 
     {"loader":"loadSpine", "url":"assets/main/Animations/Spine/", "pref":"symbol_", "suf":"", "round":[0, 7]},
     {"loader":"loadSpine", "name":"fireworks", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"anticipation", "file":"assets/main/Animations/Spine/"},
     {"loader":"loadSpine", "active":true, "name":"frame_particle", "file":"assets/main/Animations/Spine/"},
     {"loader":"loadSpine", "name":"logo", "file":"assets/main/Animations/Spine/"},
 

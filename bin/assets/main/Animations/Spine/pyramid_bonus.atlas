@@ -1,0 +1,279 @@
+
+pyramid_bonus.png
+size: 1985,713
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_00
+  rotate: true
+  xy: 911, 60
+  size: 171, 115
+  orig: 200, 150
+  offset: 14, 19
+  index: -1
+frame_01
+  rotate: true
+  xy: 1414, 105
+  size: 171, 122
+  orig: 200, 150
+  offset: 14, 18
+  index: -1
+frame_02
+  rotate: true
+  xy: 1742, 409
+  size: 176, 127
+  orig: 200, 150
+  offset: 10, 13
+  index: -1
+frame_03
+  rotate: false
+  xy: 1715, 278
+  size: 178, 129
+  orig: 200, 150
+  offset: 9, 11
+  index: -1
+frame_04
+  rotate: false
+  xy: 1675, 12
+  size: 178, 130
+  orig: 200, 150
+  offset: 9, 10
+  index: -1
+frame_05
+  rotate: false
+  xy: 1675, 144
+  size: 184, 132
+  orig: 200, 150
+  offset: 9, 10
+  index: -1
+frame_06
+  rotate: false
+  xy: 1217, 2
+  size: 185, 133
+  orig: 200, 150
+  offset: 8, 9
+  index: -1
+frame_07
+  rotate: false
+  xy: 1028, 2
+  size: 187, 133
+  orig: 200, 150
+  offset: 7, 9
+  index: -1
+frame_08
+  rotate: true
+  xy: 1538, 106
+  size: 187, 135
+  orig: 200, 150
+  offset: 7, 8
+  index: -1
+frame_09
+  rotate: false
+  xy: 1552, 448
+  size: 188, 137
+  orig: 200, 150
+  offset: 6, 7
+  index: -1
+frame_10
+  rotate: false
+  xy: 1223, 138
+  size: 189, 138
+  orig: 200, 150
+  offset: 6, 7
+  index: -1
+frame_11
+  rotate: false
+  xy: 1028, 137
+  size: 193, 139
+  orig: 200, 150
+  offset: 5, 6
+  index: -1
+frame_12
+  rotate: true
+  xy: 574, 7
+  size: 194, 139
+  orig: 200, 150
+  offset: 5, 6
+  index: -1
+frame_13
+  rotate: false
+  xy: 715, 92
+  size: 194, 139
+  orig: 200, 150
+  offset: 5, 6
+  index: -1
+pyramid
+  rotate: false
+  xy: 2, 203
+  size: 703, 508
+  orig: 760, 530
+  offset: 27, 3
+  index: -1
+pyramid_ankh
+  rotate: false
+  xy: 1508, 295
+  size: 121, 149
+  orig: 137, 161
+  offset: 6, 6
+  index: -1
+pyramid_frame_1
+  rotate: true
+  xy: 1528, 36
+  size: 32, 110
+  orig: 50, 120
+  offset: 8, 5
+  index: -1
+pyramid_frame_2
+  rotate: true
+  xy: 1528, 3
+  size: 31, 110
+  orig: 50, 120
+  offset: 7, 5
+  index: -1
+pyramid_frame_glow
+  rotate: true
+  xy: 1538, 70
+  size: 34, 114
+  orig: 50, 130
+  offset: 7, 7
+  index: -1
+pyramid_line
+  rotate: false
+  xy: 1051, 580
+  size: 499, 131
+  orig: 550, 200
+  offset: 31, 35
+  index: -1
+pyramid_line_2
+  rotate: false
+  xy: 1051, 446
+  size: 497, 132
+  orig: 550, 200
+  offset: 32, 35
+  index: -1
+pyramid_line_top
+  rotate: true
+  xy: 1051, 278
+  size: 166, 455
+  orig: 200, 500
+  offset: 18, 23
+  index: -1
+pyramid_line_top_glow
+  rotate: false
+  xy: 707, 363
+  size: 342, 348
+  orig: 370, 370
+  offset: 18, 22
+  index: -1
+pyramid_line_top_line
+  rotate: true
+  xy: 2, 3
+  size: 198, 570
+  orig: 230, 600
+  offset: 12, 30
+  index: -1
+shine_1
+  rotate: false
+  xy: 1552, 671
+  size: 320, 40
+  orig: 350, 50
+  offset: 18, 10
+  index: -1
+shine_2
+  rotate: false
+  xy: 1552, 587
+  size: 317, 40
+  orig: 350, 50
+  offset: 15, 10
+  index: -1
+shine_3
+  rotate: false
+  xy: 707, 321
+  size: 320, 40
+  orig: 350, 50
+  offset: 16, 10
+  index: -1
+shine_4
+  rotate: false
+  xy: 1552, 629
+  size: 319, 40
+  orig: 350, 50
+  offset: 15, 10
+  index: -1
+shine_5
+  rotate: false
+  xy: 707, 233
+  size: 300, 42
+  orig: 350, 50
+  offset: 15, 8
+  index: -1
+shine_6
+  rotate: false
+  xy: 707, 277
+  size: 316, 42
+  orig: 350, 50
+  offset: 18, 8
+  index: -1
+symbol_small_10
+  rotate: false
+  xy: 715, 8
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_a
+  rotate: false
+  xy: 1404, 21
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_anubis
+  rotate: true
+  xy: 1631, 324
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_bastest
+  rotate: false
+  xy: 1861, 194
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_j
+  rotate: false
+  xy: 1861, 110
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_k
+  rotate: false
+  xy: 1855, 26
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_mask
+  rotate: true
+  xy: 1874, 589
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_q
+  rotate: true
+  xy: 1871, 465
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1
+symbol_small_ra
+  rotate: true
+  xy: 1895, 341
+  size: 122, 82
+  orig: 130, 88
+  offset: 4, 3
+  index: -1

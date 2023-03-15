@@ -15,7 +15,7 @@ export const GameConstStatic = {
     S_btn_bet_minus: "btn_any",
     S_btn_bet_plus: "btn_any",
     S_take_take: "take-take",
-    S_take_end: "win2balance",
+    S_take_end: "win2balance,",
     S_btn_bet_max: "btn_any",
     S_btn_reveal: "btn_start",
     S_btn_disable: "btn_any",
@@ -46,16 +46,16 @@ export const GameConstStatic = {
 
     S_bg_bonus: "",
     S_bonus_end: "",
-    S_bonus_pick: "",
+    S_bonus_pick: "win_3_2",
 
     S_JPWin: "JPWin",
 
-    S_reel_scatter1: "",
-    S_reel_scatter2: "",
-    S_reel_scatter3: "",
-    S_reel_scatter5: "",
-    S_reel_scatter4: "",
-    S_scatter_wait: "",
+    S_reel_scatter1: "scatter_1",
+    S_reel_scatter2: "scatter_2",
+    S_reel_scatter3: "scatter_3",
+    S_reel_scatter5: "scatter_5",
+    S_reel_scatter4: "scatter_4",
+    S_scatter_wait: "scatter_wait",
 
     S_big_win: "big_win",
     S_show_win_3: "show_win_3",
